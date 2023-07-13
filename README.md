@@ -31,17 +31,17 @@ Inspired by the prompt learning in natural language processing (NLP), the **"pre
 
 ### 2023
 
-* Universal Prompt Tuning for Graph Neural Networks (*July 2023, arXiv*) [[Paper](https://arxiv.org/abs/2209.15240)]
-* Virtual Node Tuning for Few-shot Node Classification (*KDD'2023*) [[Paper](https://arxiv.org/abs/2306.06063)]
-* All in One: Multi-Task Prompting for Graph Neural Networks (*KDD'2023*) [[Paper](https://arxiv.org/abs/2307.01504 )]  [[Code](https://github.com/sheldonresearch/ProG)]
-* PRODIGY: Enabling In-context Learning Over Graphs (*May 2023, arXiv*) [[Paper](https://arxiv.org/abs/2305.12600)]
-* GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks (*WWW'2023*) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583386 )] [[Code](https://github.com/Starlien95/GraphPrompt )]
+* Universal Prompt Tuning for Graph Neural Networks (***July 2023, arXiv***) [[Paper](https://arxiv.org/abs/2209.15240)]
+* Virtual Node Tuning for Few-shot Node Classification (***KDD'2023***) [[Paper](https://arxiv.org/abs/2306.06063)]
+* All in One: Multi-Task Prompting for Graph Neural Networks (***KDD'2023***) [[Paper](https://arxiv.org/abs/2307.01504 )]  [[Code](https://github.com/sheldonresearch/ProG)]
+* PRODIGY: Enabling In-context Learning Over Graphs (***May 2023, arXiv***) [[Paper](https://arxiv.org/abs/2305.12600)]
+* GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks (***WWW'2023***) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583386 )] [[Code](https://github.com/Starlien95/GraphPrompt )]
 
 
 
 ### 2022
 
-* GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks (*KDD'2022*) [[Paper](https://dl.acm.org/doi/10.1145/3534678.3539249 )]  [[Code](https://github.com/MingChen-Sun/GPPT)]
+* GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks (***KDD'2022***) [[Paper](https://dl.acm.org/doi/10.1145/3534678.3539249 )]  [[Code](https://github.com/MingChen-Sun/GPPT)]
 
 
 ## Contributing
@@ -49,5 +49,5 @@ Inspired by the prompt learning in natural language processing (NLP), the **"pre
 
 If you have come across relevant resources, feel free to open an issue or submit a pull request.
 ```
-- paper_name (*journal*) [[Paper](link)] [[Code](link)]
+- paper_name (***journal***) [[Paper](link)] [[Code](link)]
 ```
