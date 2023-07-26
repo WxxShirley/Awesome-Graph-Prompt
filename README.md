@@ -31,7 +31,10 @@ Inspired by the prompt learning in natural language processing (NLP), the **"pre
 
 ### 2023
 
+* Prompt-Based Zero- and Few-Shot Node Classification: A Multimodal Approach (***July2023, arXiv***) [[Paper](https://arxiv.org/abs/2307.11572 )]
+* Prompt Tuning on Graph-augmented Low-resource Text Classification (***July 2023, arXiv***) [[Paper](https://arxiv.org/abs/2307.10230 )] [[Code](https://github.com/WenZhihao666/G2P2-conditional )]
 * Universal Prompt Tuning for Graph Neural Networks (***July 2023, arXiv***) [[Paper](https://arxiv.org/abs/2209.15240)]
+* Augmenting Low-Resource Text Classification with Graph-Grounded Pre-training and Prompting (***SIGIR'2023***) [[Paper](https://arxiv.org/abs/2305.03324 )] [[Code](https://github.com/WenZhihao666/G2P2 )]
 * Virtual Node Tuning for Few-shot Node Classification (***KDD'2023***) [[Paper](https://arxiv.org/abs/2306.06063)]
 * All in One: Multi-Task Prompting for Graph Neural Networks (***KDD'2023***) [[Paper](https://arxiv.org/abs/2307.01504 )]  [[Code](https://github.com/sheldonresearch/ProG)]
 * PRODIGY: Enabling In-context Learning Over Graphs (***May 2023, arXiv***) [[Paper](https://arxiv.org/abs/2305.12600)]
