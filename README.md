@@ -32,6 +32,7 @@ Inspired by the prompt learning in natural language processing (NLP), the **"pre
 ### 2023
 
 * Prompt-and-Align: Prompt-Based Social Alignment for Few-Shot Fake News Detection (***CIKM'2023***)
+* Voucher Abuse Detection with Prompt-based Fine-tuning on Graph Neural Networks (***CIKM'2023***) [[Paper](https://arxiv.org/abs/2308.10028 )]
   
 
 * Prompt-Based Zero- and Few-Shot Node Classification: A Multimodal Approach (***July 2023, arXiv***) [[Paper](https://arxiv.org/abs/2307.11572 )]
