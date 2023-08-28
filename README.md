@@ -15,8 +15,9 @@ Inspired by the prompt learning in natural language processing (NLP), the **"pre
   - [Papers](#papers) 
     - [2023](#2023)
     - [2022](#2022)
+  - [Ohter Resources](#other-resources)
   - [Contributing](#contributing)
-
+  
 
 
 
@@ -43,6 +44,7 @@ Inspired by the prompt learning in natural language processing (NLP), the **"pre
 * Augmenting Low-Resource Text Classification with Graph-Grounded Pre-training and Prompting (***SIGIR'2023***) [[Paper](https://arxiv.org/abs/2305.03324 )] [[Code](https://github.com/WenZhihao666/G2P2 )]
 * Virtual Node Tuning for Few-shot Node Classification (***KDD'2023***) [[Paper](https://arxiv.org/abs/2306.06063)]
 * All in One: Multi-Task Prompting for Graph Neural Networks (***KDD'2023 Best Paper Award 🌟***) [[Paper](https://arxiv.org/abs/2307.01504 )]  [[Code](https://github.com/sheldonresearch/ProG)]
+* A Data-centric Framework to Endow Graph Neural Networks with Out-Of-Distribution Detection Ability (***KDD'2023***) [[Paper](http://shichuan.org/doc/150.pdf)] [[Code](https://github.com/BUPT-GAMMA/AAGOD )]
 * PRODIGY: Enabling In-context Learning Over Graphs (***May 2023, arXiv***) [[Paper](https://arxiv.org/abs/2305.12600)]
 * GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks (***WWW'2023***) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583386 )] [[Code](https://github.com/Starlien95/GraphPrompt )]
 * SGL-PT: A Strong Graph Learner with Graph Prompt Tuning (***Feb 2023, arXiv***) [[Paper](https://arxiv.org/abs/2302.12449)]
@@ -51,6 +53,11 @@ Inspired by the prompt learning in natural language processing (NLP), the **"pre
 ### 2022
 
 * GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks (***KDD'2022***) [[Paper](https://dl.acm.org/doi/10.1145/3534678.3539249 )]  [[Code](https://github.com/MingChen-Sun/GPPT)]
+
+
+## Other Resources
+
+* A Chinese Blog on Graph Prompting (including GPPT, GraphPrompt, All in One, etc) [[Link](https://mp.weixin.qq.com/s/_Khx87cdN6RGiOGkiUjV8Q)]
 
 
 ## Contributing
