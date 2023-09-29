@@ -32,6 +32,7 @@ Inspired by the prompt learning in natural language processing (NLP), the **"pre
 
 ### 2023
 
+* Universal Prompt Tuning for Graph Neural Networks (***NeurIPS'2023***) [[Paper](https://www.researchgate.net/profile/Taoran-Fang/publication/364110035_Prompt_Tuning_for_Graph_Neural_Networks/links/647abf7879a722376509c6a9/Prompt-Tuning-for-Graph-Neural-Networks.pdf)]
 * Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs (***September 2023, arXiv***) [[Paper](https://arxiv.org/abs/2309.02848 )] 
 * Knowledge Graph Prompting for Multi-Document Question Answering (***August 2023, arXiv***) [[Paper](https://arxiv.org/abs/2308.11730 )] [[Code](https://github.com/YuWVandy/KG-LLM-MDQA )]
 * Contrastive Graph Prompt-tuning for Cross-domain Recommendation (***August 2023, arXiv***) [[Paper](https://arxiv.org/pdf/2308.10685.pdf )]
