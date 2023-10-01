@@ -32,6 +32,7 @@ Inspired by the prompt learning in natural language processing (NLP), the **"pre
 
 ### 2023
 
+* Universal Prompt Tuning for Graph Neural Networks (***NeurIPS'2023***) [[Paper](https://arxiv.org/abs/2209.15240)]
 * Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs (***September 2023, arXiv***) [[Paper](https://arxiv.org/abs/2309.02848 )] 
 * Knowledge Graph Prompting for Multi-Document Question Answering (***August 2023, arXiv***) [[Paper](https://arxiv.org/abs/2308.11730 )] [[Code](https://github.com/YuWVandy/KG-LLM-MDQA )]
 * Contrastive Graph Prompt-tuning for Cross-domain Recommendation (***August 2023, arXiv***) [[Paper](https://arxiv.org/pdf/2308.10685.pdf )]
@@ -41,7 +42,6 @@ Inspired by the prompt learning in natural language processing (NLP), the **"pre
 
 * Prompt-Based Zero- and Few-Shot Node Classification: A Multimodal Approach (***July 2023, arXiv***) [[Paper](https://arxiv.org/abs/2307.11572 )]
 * Prompt Tuning on Graph-augmented Low-resource Text Classification (***July 2023, arXiv***) [[Paper](https://arxiv.org/abs/2307.10230 )] [[Code](https://github.com/WenZhihao666/G2P2-conditional )]
-* Universal Prompt Tuning for Graph Neural Networks (***July 2023, arXiv***) [[Paper](https://arxiv.org/abs/2209.15240)]
 * Augmenting Low-Resource Text Classification with Graph-Grounded Pre-training and Prompting (***SIGIR'2023***) [[Paper](https://arxiv.org/abs/2305.03324 )] [[Code](https://github.com/WenZhihao666/G2P2 )]
 * Virtual Node Tuning for Few-shot Node Classification (***KDD'2023***) [[Paper](https://arxiv.org/abs/2306.06063)]
 * All in One: Multi-Task Prompting for Graph Neural Networks (***KDD'2023 Best Paper Award 🌟***) [[Paper](https://arxiv.org/abs/2307.01504 )]  [[Code](https://github.com/sheldonresearch/ProG)]
