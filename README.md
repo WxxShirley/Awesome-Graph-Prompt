@@ -36,7 +36,7 @@ Inspired by the prompt learning in natural language processing (NLP), the **"pre
 * Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs (***September 2023, arXiv***) [[Paper](https://arxiv.org/abs/2309.02848 )] 
 * Knowledge Graph Prompting for Multi-Document Question Answering (***August 2023, arXiv***) [[Paper](https://arxiv.org/abs/2308.11730 )] [[Code](https://github.com/YuWVandy/KG-LLM-MDQA )]
 * Contrastive Graph Prompt-tuning for Cross-domain Recommendation (***August 2023, arXiv***) [[Paper](https://arxiv.org/pdf/2308.10685.pdf )]
-* Prompt-and-Align: Prompt-Based Social Alignment for Few-Shot Fake News Detection (***CIKM'2023***)
+* Prompt-and-Align: Prompt-Based Social Alignment for Few-Shot Fake News Detection (***CIKM'2023***) [[Paper](https://arxiv.org/pdf/2309.16424.pdf )] [[Code](https://github.com/jiayingwu19/Prompt-and-Align)]
 * Voucher Abuse Detection with Prompt-based Fine-tuning on Graph Neural Networks (***CIKM'2023***) [[Paper](https://arxiv.org/abs/2308.10028 )]
   
 
