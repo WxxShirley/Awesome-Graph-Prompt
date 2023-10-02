@@ -34,6 +34,7 @@ Inspired by the prompt learning in natural language processing (NLP), the **"pre
 
 * Deep Prompt Tuning for Graph Transformers (***September 2023, arXiv***) [[Paper](https://arxiv.org/abs/2309.10131))
 * Graph Neural Prompting with Large Language Models (***September 2023, arXiv***)  [[Paper](https://arxiv.org/pdf/2309.15427.pdf)]
+* An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations (***NeurIPS'2023***) 
 * Universal Prompt Tuning for Graph Neural Networks (***NeurIPS'2023***) [[Paper](https://arxiv.org/abs/2209.15240)]
 * Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs (***September 2023, arXiv***) [[Paper](https://arxiv.org/abs/2309.02848 )] 
 * Knowledge Graph Prompting for Multi-Document Question Answering (***August 2023, arXiv***) [[Paper](https://arxiv.org/abs/2308.11730 )] [[Code](https://github.com/YuWVandy/KG-LLM-MDQA )]
