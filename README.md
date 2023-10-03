@@ -34,6 +34,7 @@ Inspired by the prompt learning in natural language processing (NLP), the **"pre
 
 ## GNN Prompting Papers
 
+* One for All: Towards Training One Graph Model for All Classification Tasks (***September 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.00149 )] [[Code](https://github.com/LechengKong/OneForAll)]
 * Deep Prompt Tuning for Graph Transformers (***September 2023, arXiv***) [[Paper](https://arxiv.org/abs/2309.10131))
 * Graph Neural Prompting with Large Language Models (***September 2023, arXiv***)  [[Paper](https://arxiv.org/pdf/2309.15427.pdf)]
 * Universal Prompt Tuning for Graph Neural Networks (***NeurIPS'2023***) [[Paper](https://arxiv.org/abs/2209.15240)]
