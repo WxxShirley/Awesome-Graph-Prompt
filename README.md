@@ -14,6 +14,7 @@ Inspired by the prompt learning in natural language processing (NLP), the **"pre
   - [Survey](#survey)
   - [GNN Prompting Papers](#gnn-prompting-papers) 
   - [Application Papers](#application-papers)
+     - [Large Language Models(LLMs)](#large-language-models)
      - [Recommender Systems](#recommender-systems)
      - [Text Attributed Graphs](#text-attributed-graphs )
      - [Question Answering](#question-answering)
@@ -35,7 +36,6 @@ Inspired by the prompt learning in natural language processing (NLP), the **"pre
 ## GNN Prompting Papers
 
 * GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning (***October 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.07365)]
-* One for All: Towards Training One Graph Model for All Classification Tasks (***September 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.00149 )] [[Code](https://github.com/LechengKong/OneForAll)]
 * Deep Prompt Tuning for Graph Transformers (***September 2023, arXiv***) [[Paper](https://arxiv.org/abs/2309.10131))
 * Graph Neural Prompting with Large Language Models (***September 2023, arXiv***)  [[Paper](https://arxiv.org/pdf/2309.15427.pdf)]
 * Universal Prompt Tuning for Graph Neural Networks (***NeurIPS'2023***) [[Paper](https://arxiv.org/abs/2209.15240)]
@@ -49,6 +49,12 @@ Inspired by the prompt learning in natural language processing (NLP), the **"pre
 
 ## Application Papers
 
+### Large Language Models
+> A relatively rough classification. These papers contruct *text* prompt and exploit LLM to solove graph-domain downstream tasks.
+
+* Talk like a graph: Encoding graphs for large language models (***October 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.04560)]
+* One for All: Towards Training One Graph Model for All Classification Tasks (***September 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.00149 )] [[Code](https://github.com/LechengKong/OneForAll)]
+* Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs (***Augest 2023, arXiv***) [[Paper](https://arxiv.org/abs/2307.03393)]
 
 ### Recommender Systems 
 
