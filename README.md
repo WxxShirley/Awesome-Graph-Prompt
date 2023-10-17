@@ -52,6 +52,19 @@ This repo aims to provide a curated list of research papers that explore the pro
 * GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks (***KDD'2022***) [[Paper](https://dl.acm.org/doi/10.1145/3534678.3539249 )]  [[Code](https://github.com/MingChen-Sun/GPPT)]
 
 
+A Summary of Methodology Details 
+
+|       Model     |     Pre-training Method          | Downstream Tasks | Prompt Design                             | Pub   |
+| :-------------: | :------------------------------: | :--------------: | :---------------------------------------: | :---: |
+|    All in One   |For All (work as a plug-and-play) |  Node/Edge/Graph |   Prompt tokens with learnable structures | KDD23 |
+|     GraphPrompt |         Link Prediction          |    Node/Graph    |    Prompt token                           | WWW23 |
+|     GPF-plus    |For All (work as a plug-and-play) |         Graph    |    Prompt tokens                          | NIPS23|
+|     GPF         |For All (work as a plug-and-play) |         Graph    |    Prompt token                           | NIPS23|
+|      GPPT       |          Link Prediction         |    Node          |    Prompt tokens                          | KDD22 |
+
+
+
+
 ## Application Papers
 
 ### Large Language Models
