@@ -4,7 +4,9 @@
 A collection of AWESOME things about performing **Pre-training and Prompt on Graphs**.
 
 Recently, the workflow of **"pre-training and fine-tuning"** has been proved less effective and efficient when applied to diverse graph downstream tasks.
-Inspired by the prompt learning in natural language processing (NLP), the **"pre-training and prompting"** workflow has emerged as a promising solution. This repo aims to provide a curated list of research papers that explore the prompting on graphs.
+Inspired by the prompt learning in natural language processing (NLP), the **"pre-training and prompting"** workflow has emerged as a promising solution. 
+
+This repo aims to provide a curated list of research papers that explore the prompting on graphs.
 
 
 ## Table of Contents
@@ -22,6 +24,9 @@ Inspired by the prompt learning in natural language processing (NLP), the **"pre
      - [Fraud Detection](#fraud-detection)
      - [OOD Detection](#ood-detection)
   - [Ohter Resources](#other-resources)
+     - [Open Source](#open-source)
+     - [Datasets](#datasets)
+     - [Blogs](#blogs)
   - [Contributing](#contributing)
   
 
@@ -90,6 +95,43 @@ Inspired by the prompt learning in natural language processing (NLP), the **"pre
 
 ## Other Resources
 
+### Open Source
+* **ProG: A Unified Library for Graph Prompting** [[Website](https://graphprompt.github.io/)] [[Code](https://github.com/sheldonresearch/ProG)]
+  
+  ProG (Prompt Graph) is a library built upon PyTorch to easily conduct single or multiple task prompting for a pre-trained Graph Neural Networks (GNNs).
+
+### Datasets
+
+Datasets that are commonly used in GNN prompting papers.
+
+|     Dataset      |     Category      | \#Graph | \#Node (Avg.) | \#Edge (Avg.) | \#Feature | \#Class |
+| :--------------: | :---------------: | :-----: | :-----------: | :-----------: | :-------: | :-----: |
+|       Cora       | Citation Network  |    1    |     2708      |     5429      |   1433    |    7    |
+|     CoraFull     | Citation Network  |    1    |     19793     |     63421     |   8710    |   70    |
+|     Citeseer     | Citation Network  |    1    |     3327      |     4732      |   3703    |    6    |
+|      DBLP        | Citation Network  |    1    |     17716     |     105734    |   1639    |    4    |
+|      Pubmed      | Citation Network  |    1    |     19717     |     44338     |    500    |    3    |
+|   Coauthor-CS    | Citation Network  |    1    |     18333     |     81894     |   6805    |   15    |
+| Coauthor-Physics | Citation Network  |    1    |     34493     |    247962     |   8415    |    5    |
+|    ogbn-arxiv    | Citation Network  |    1    |    169343     |    1166243    |    128    |   40    |
+| Amazon-Computers |  Purchase Network |    1    |     13752     |    245861     |    767    |   10    |
+|   Amazon-Photo   |  Purchase Network |    1    |     7650      |    119081     |    745    |    8    |
+|  ogbn-products   |  Purchase Network |    1    |    2449029    |   61859140    |    100    |   47    |
+|     Wiki-CS      |      Web Link     |    1    |     11701     |    216123     |    300    |   10    |
+|    FB15K237      | Knowledge Graph   |    1    |    14541      |    310116     |     -     |   237   |
+|    WN18RR        | Knowledge Graph   |    1    |    40943      |     93003     |     -     |    11   |
+|      Reddit      |  Social Network   |    1    |    232965     |   11606919    |    602    |   41    |
+|      Flickr      |  Social Network   |    1    |     89250     |    899756     |     500   |    7    |
+|     PROTEINS     | Protein Networks  |  1113   |     39.06     |     72.82     |     1     |    2    |
+|       COX2       |  Molecule Graphs  |   467   |     41.22     |     43.45     |     3     |    2    |
+|     ENZYMES      |  Molecule Graphs  |   600   |     32.63     |     62.14     |     18    |    6    |
+|      MUTAG       |  Molecule Graphs  |   188   |     17.93     |     19.79     |     7     |    2    |
+|       MUV        |  Molecule Graphs  |  93087  |     24.23     |     26.28     |     -     |   17    |
+|       HIV        |  Molecule Graphs  |  41127  |     25.53     |     27.48     |     -     |    2    |
+|      SIDER       |  Molecule Graphs  |  1427   |     33.64     |     35.36     |     -     |   27    |
+
+
+### Blogs
 * A Chinese Blog on Graph Prompting (including GPPT, GraphPrompt, All in One, etc) [[Link](https://mp.weixin.qq.com/s/_Khx87cdN6RGiOGkiUjV8Q)]
 
 
