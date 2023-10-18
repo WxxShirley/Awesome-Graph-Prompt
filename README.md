@@ -40,6 +40,7 @@ This repo aims to provide a curated list of research papers that explore the pro
 
 ## GNN Prompting Papers
 
+* Prompt Tuning for Multi-View Graph Contrastive Learning (***October 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.10362)]
 * GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning (***October 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.07365)]
 * Deep Prompt Tuning for Graph Transformers (***September 2023, arXiv***) [[Paper](https://arxiv.org/abs/2309.10131))
 * Graph Neural Prompting with Large Language Models (***September 2023, arXiv***)  [[Paper](https://arxiv.org/pdf/2309.15427.pdf)]
@@ -51,12 +52,13 @@ This repo aims to provide a curated list of research papers that explore the pro
 * SGL-PT: A Strong Graph Learner with Graph Prompt Tuning (***Feb 2023, arXiv***) [[Paper](https://arxiv.org/abs/2302.12449)]
 * GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks (***KDD'2022***) [[Paper](https://dl.acm.org/doi/10.1145/3534678.3539249 )]  [[Code](https://github.com/MingChen-Sun/GPPT)]
 
-
+ 
 A Summary of Methodology Details 
 
 |       Model     |     Pre-training Method          | Downstream Tasks | Prompt Design                             | Pub   |
 | :-------------: | :------------------------------: | :--------------: | :---------------------------------------: | :---: |
 |    All in One   |For All (work as a plug-and-play) |  Node/Edge/Graph |   Prompt tokens with learnable structures | KDD23 |
+|      PGCL       |            Customozied           |  Node/Edge/Graph |    Prompt tokens                          | arXiv23/10|
 |     GraphPrompt |         Link Prediction          |    Node/Graph    |    Prompt token                           | WWW23 |
 |     GPF-plus    |For All (work as a plug-and-play) |         Graph    |    Prompt tokens                          | NIPS23|
 |     GPF         |For All (work as a plug-and-play) |         Graph    |    Prompt token                           | NIPS23|
