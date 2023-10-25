@@ -40,6 +40,8 @@ This repo aims to provide a curated list of research papers that explore the pro
 
 ## GNN Prompting Papers
 
+* HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks (***October 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.15318)]
+* ULTRA-DP:Unifying Graph Pre-training with Multi-task Graph Dual Prompt (***October 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.14845)]
 * Prompt Tuning for Multi-View Graph Contrastive Learning (***October 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.10362)]
 * GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning (***October 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.07365)]
 * Deep Prompt Tuning for Graph Transformers (***September 2023, arXiv***) [[Paper](https://arxiv.org/abs/2309.10131))
