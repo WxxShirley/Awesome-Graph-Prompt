@@ -80,6 +80,7 @@ A Summary of Methodology Details
 
 ### Recommender Systems 
 
+* Representation Learning with Large Language Models for Recommendation (***October 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.15950)]
 * An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations (***NeurIPS'2023***)
 * Contrastive Graph Prompt-tuning for Cross-domain Recommendation (***August 2023, arXiv***) [[Paper](https://arxiv.org/pdf/2308.10685.pdf )]
 
