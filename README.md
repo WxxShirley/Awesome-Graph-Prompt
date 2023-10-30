@@ -87,6 +87,7 @@ A Summary of Methodology Details
 
 ### Text Attributed Graphs 
 
+* Disentangled Representation Learning with Large Language Models for Text-Attributed Graphs (***October 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.18152)]
 * Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs (***September 2023, arXiv***) [[Paper](https://arxiv.org/abs/2309.02848 )]
 * Prompt-Based Zero- and Few-Shot Node Classification: A Multimodal Approach (***July 2023, arXiv***) [[Paper](https://arxiv.org/abs/2307.11572 )]
 * Prompt Tuning on Graph-augmented Low-resource Text Classification (***July 2023, arXiv***) [[Paper](https://arxiv.org/abs/2307.10230 )] [[Code](https://github.com/WenZhihao666/G2P2-conditional )]
