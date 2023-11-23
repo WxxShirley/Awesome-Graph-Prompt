@@ -49,7 +49,7 @@ This repo aims to provide a curated list of research papers that explore the pro
 * Universal Prompt Tuning for Graph Neural Networks (***NeurIPS'2023***) [[Paper](https://arxiv.org/abs/2209.15240)]
 * Virtual Node Tuning for Few-shot Node Classification (***KDD'2023***) [[Paper](https://arxiv.org/abs/2306.06063)]
 * All in One: Multi-Task Prompting for Graph Neural Networks (***KDD'2023 Best Paper Award 🌟***) [[Paper](https://arxiv.org/abs/2307.01504 )]  [[Code](https://github.com/sheldonresearch/ProG)]
-* PRODIGY: Enabling In-context Learning Over Graphs (***May 2023, arXiv***) [[Paper](https://arxiv.org/abs/2305.12600)]
+* PRODIGY: Enabling In-context Learning Over Graphs (***NeurIPS' 2023 Spotlight***) [[Paper](https://arxiv.org/abs/2305.12600)] [[Code](https://github.com/snap-stanford/prodigy )]
 * GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks (***WWW'2023***) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583386 )] [[Code](https://github.com/Starlien95/GraphPrompt )]
 * SGL-PT: A Strong Graph Learner with Graph Prompt Tuning (***Feb 2023, arXiv***) [[Paper](https://arxiv.org/abs/2302.12449)]
 * GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks (***KDD'2022***) [[Paper](https://dl.acm.org/doi/10.1145/3534678.3539249 )]  [[Code](https://github.com/MingChen-Sun/GPPT)]
