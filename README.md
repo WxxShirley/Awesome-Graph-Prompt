@@ -81,6 +81,7 @@ A Summary of Methodology Details
 
 ### Recommender Systems 
 
+* Motif-Based Prompt Learning for Universal Cross-Domain Recommendation (***WSDM'2024***) [[Paper](https://arxiv.org/abs/2310.13303)]
 * Representation Learning with Large Language Models for Recommendation (***October 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.15950)]
 * An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations (***NeurIPS'2023***) [[Paper](https://openreview.net/pdf?id=XyAP8ScqLV)] [[Code](https://github.com/Haoran-Young/CPTPP )]
 * Contrastive Graph Prompt-tuning for Cross-domain Recommendation (***August 2023, arXiv***) [[Paper](https://arxiv.org/pdf/2308.10685.pdf )]
