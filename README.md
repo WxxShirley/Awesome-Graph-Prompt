@@ -148,6 +148,9 @@ This repo aims to provide a curated list of research papers that explore the pro
 15. **LLM4DyG: Can Large Language Models Solve Problems on Dynamic Graphs?**
     In **arXiv**, [[Paper](https://arxiv.org/pdf/2310.17110.pdf)]. `Graph+Text`
 
+16. **Which Modality should I use - Text, Motif, or Image? Understanding Graphs with Large Language Models**.
+    In **arXiv**, [[Paper](https://arxiv.org/pdf/2311.09862.pdf)]. `Graph+Text+Image`
+
 
 ### Graph Domain Adaptation with Prompting
 
@@ -183,11 +186,13 @@ This repo aims to provide a curated list of research papers that explore the pro
    In **arXiv**, [[Paper](https://arxiv.org/abs/2308.11730 )] [[Code](https://github.com/YuWVandy/KG-LLM-MDQA )].
 
 ### Biology
-1. **GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning**.
+1. **Can Large Language Models Empower Molecular Property Prediction?**
+   In **arXiv**, [[Paper](https://arxiv.org/pdf/2307.07443.pdf)] [[Code](https://github.com/ChnQ/LLM4Mol)].
+2. **GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning**.
    In **NeurIPS'2023**, [[Paper](https://arxiv.org/pdf/2306.13089.pdf)] [[Code](https://github.com/zhao-ht/GIMLET )].
-2. **MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter**.
+3. **MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter**.
    In **EMNLP'2023**, [[Paper](http://arxiv.org/abs/2310.12798)] [[Code](https://github.com/acharkq/MolCA)].
-3. **ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction**.
+4. **ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction**.
    In **EMNLP'2023**, [[Paper](https://arxiv.org/pdf/2310.13590.pdf)] [[Code](https://github.com/syr-cn/ReLM)].
 
 
