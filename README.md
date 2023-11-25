@@ -20,7 +20,10 @@ This repo aims to provide a curated list of research papers that explore the pro
 
 - [Awesome-Graph-Prompt](#awesome-graph-prompt)
   - [Table of Contents](#table-of-contents)
-  - [GNN Prompting Papers](#gnn-prompting-papers) 
+  - [GNN Prompting Papers](#gnn-prompting-papers)
+  - [Multi-Modal and Multi-Domain Papers](#multi-modal-and-multi-domain-papers)
+     - [Multi-Modal Prompting with Graphs](#multi-modal-prompting-with-graphs)
+     - [Graph Domain Adaptation with Prompting](#graph-domain-adaptation-with-prompting)
   - [Application Papers](#application-papers)
      - [Social Networks](#social-networks)
      - [Recommender Systems](#recommender-systems)
@@ -82,12 +85,12 @@ This repo aims to provide a curated list of research papers that explore the pro
 10. **ULTRA-DP:Unifying Graph Pre-training with Multi-task Graph Dual Prompt**.
     In **arXiv**, [[Paper](https://arxiv.org/abs/2310.14845)].
 
-    ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red)  ![](https://img.shields.io/badge/Downstream%3A%20Node-yellow).
+    ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red)  ![](https://img.shields.io/badge/Downstream%3A%20Node-yellow)
 
 11. **HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks**.
     In **arXiv**, [[Paper](https://arxiv.org/abs/2310.15318)].
 
-    ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red)  ![](https://img.shields.io/badge/Downstream%3A%20Node-yellow).
+    ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red)  ![](https://img.shields.io/badge/Downstream%3A%20Node-yellow)
 
 12. **Enhancing Graph Neural Networks with Structure-Based Prompt**.
     In **arXiv**, [[Paper](https://arxiv.org/abs/2310.17394)].
@@ -96,6 +99,62 @@ This repo aims to provide a curated list of research papers that explore the pro
 
 
 
+## Multi-Modal and Multi-Domain Papers
+
+### Multi-Modal Prompting with Graphs 
+
+1. **Augmenting Low-Resource Text Classification with Graph-Grounded Pre-training and Prompting**.
+   In **SIGIR'2023**, [[Paper](https://arxiv.org/abs/2305.03324 )] [[Code](https://github.com/WenZhihao666/G2P2 )]. `Graph+Text`
+
+2. **Prompt Tuning on Graph-augmented Low-resource Text Classification**.
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2307.10230 )] [[Code](https://github.com/WenZhihao666/G2P2-conditional )]. `Graph+Text`
+
+3. **Prompt-Based Zero- and Few-Shot Node Classification: A Multimodal Approach**. 
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2307.11572 )]. `Graph+Text`
+
+4. **Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs**. 
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2309.02848 )]. `Graph+Text`
+ 
+5. **One for All: Towards Training One Graph Model for All Classification Tasks**.
+   In **arXiv**, [[Paper](https://arxiv.org/pdf/2310.00149.pdf)] [[Code](https://github.com/LechengKong/OneForAll )]. `Graph+Text`
+
+6. **GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph**.
+   In **NeurIPS'2023**, [[Paper](http://arxiv.org/abs/2309.13625)] [[Code](https://github.com/lixinustc/GraphAdapter )]. `Graph+Text+Image`
+
+7. **SynerGPT: In-Context Learning for Personalized Drug Synergy Prediction and Drug Design**.
+   In **arXiv**, [[Paper](http://arxiv.org/abs/2307.11694)]. `Graph+Text`
+
+8. **Can Language Models Solve Graph Problems in Natural Language?**
+   In **NeurIPS'2023** spotlight 🌟, [[Paper](https://arxiv.org/abs/2305.10037)]  [[Code](https://github.com/Arthur-Heng/NLGraph)]. `Graph+Text`
+
+9. **GPT4Graph: Can Large Language Models Understand Graph Structured Data? An Empirical Evaluation and Benchmarking**.
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2305.15066)] [[Code](https://anonymous.4open.science/r/GPT4Graph)]. `Graph+Text`
+
+10. **Talk like a Graph: Encoding Graphs for Large Language Models**.
+    In **arXiv**, [[Paper](https://arxiv.org/abs/2310.04560)]. `Graph+Text`
+
+11. **GraphText: Graph Reasoning in Text Space**.
+    In **arXiv**, [[Paper](https://arxiv.org/abs/2310.01089)]. `Graph+Text`
+
+12. **GraphLLM: Boosting Graph Reasoning Ability of Large Language Model**.
+    In **arXiv**, [[Paper](https://arxiv.org/abs/2310.05845)] [[Code](https://github.com/mistyreed63849/Graph-LLM)]. `Graph+Text`
+
+13. **GraphGPT: Graph Instruction Tuning for Large Language Models**.
+    In **arXiv**, [[Paper](https://arxiv.org/abs/2310.13023v1)] [[Code](https://github.com/HKUDS/GraphGPT)]. `Graph+Text`
+
+14. **Disentangled Representation Learning with Large Language Models for Text-Attributed Graphs**.
+    In **arXiv**, [[Paper](https://arxiv.org/abs/2310.18152)]. `Graph+Text`
+
+15. **LLM4DyG: Can Large Language Models Solve Problems on Dynamic Graphs?**
+    In **arXiv**, [[Paper](https://arxiv.org/pdf/2310.17110.pdf)]. `Graph+Text`
+
+
+### Graph Domain Adaptation with Prompting
+
+1. **GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning**.
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2310.07365)].
+
+   
 
 ## Application Papers
 
@@ -128,6 +187,8 @@ This repo aims to provide a curated list of research papers that explore the pro
    In **NeurIPS'2023**, [[Paper](https://arxiv.org/pdf/2306.13089.pdf)] [[Code](https://github.com/zhao-ht/GIMLET )].
 2. **MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter**.
    In **EMNLP'2023**, [[Paper](http://arxiv.org/abs/2310.12798)] [[Code](https://github.com/acharkq/MolCA)].
+3. **ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction**.
+   In **EMNLP'2023**, [[Paper](https://arxiv.org/pdf/2310.13590.pdf)] [[Code](https://github.com/syr-cn/ReLM)].
 
 
 ### Others
