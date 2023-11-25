@@ -1,12 +1,19 @@
-# Awesome-Graph-Prompt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<h1 align="center"> Awesome-Graph-Prompt</h2>
+<h5 align="center">A collection of AWESOME things about performing prompting on Graphs.</h5>
+
+<h5 align="center">
+  
+![Awesome](https://awesome.re/badge.svg)   ![GitHub stars](https://img.shields.io/github/stars/WxxShirley/Awesome-Graph-Prompt.svg)
+
+</h5>
 
 
-A collection of AWESOME things about performing **Pre-training and Prompt on Graphs**.
+Recently, the workflow of **"pre-train, fine-tune"** has been proved less effective and efficient when dealing with diverse downstream tasks on graph domain.
+Inspired by the prompt learning in natural language processing (NLP) domain, the **"pre-train, prompt"** workflow has emerged as a promising solution. 
 
-Recently, the workflow of **"pre-training and fine-tuning"** has been proved less effective and efficient when applied to diverse graph downstream tasks.
-Inspired by the prompt learning in natural language processing (NLP), the **"pre-training and prompting"** workflow has emerged as a promising solution. 
+This repo aims to provide a curated list of research papers that explore the prompting on graphs. We will try to make this list updated frequently. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
-This repo aims to provide a curated list of research papers that explore the prompting on graphs.
+
 
 
 ## Table of Contents
@@ -16,13 +23,11 @@ This repo aims to provide a curated list of research papers that explore the pro
   - [Survey](#survey)
   - [GNN Prompting Papers](#gnn-prompting-papers) 
   - [Application Papers](#application-papers)
-     - [Large Language Models(LLMs)](#large-language-models)
+     - [Social Networks](#social-networks)
      - [Recommender Systems](#recommender-systems)
-     - [Text Attributed Graphs](#text-attributed-graphs )
-     - [Question Answering](#question-answering)
-     - [Fake News Detection](#fake-news-detection)
-     - [Fraud Detection](#fraud-detection)
-     - [OOD Detection](#ood-detection)
+     - [Knowledge Graph](#knowledge-graph)
+     - [Biology](#biology)
+     - [Others](#others)
   - [Ohter Resources](#other-resources)
      - [Open Source](#open-source)
      - [Datasets](#datasets)
@@ -71,45 +76,40 @@ A Summary of Methodology Details
 
 ## Application Papers
 
-### Large Language Models
-> A relatively rough classification. These papers contruct *text* prompt and exploit LLM to solove graph-domain downstream tasks.
 
-* Talk like a graph: Encoding graphs for large language models (***October 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.04560)]
-* Graph Neural Prompting with Large Language Models (***September 2023, arXiv***)  [[Paper](https://arxiv.org/pdf/2309.15427.pdf)]
-* One for All: Towards Training One Graph Model for All Classification Tasks (***September 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.00149 )] [[Code](https://github.com/LechengKong/OneForAll)]
-* Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs (***Augest 2023, arXiv***) [[Paper](https://arxiv.org/abs/2307.03393)]
+### Social Networks
+1. **Prompt-and-Align: Prompt-Based Social Alignment for Few-Shot Fake News Detection**.
+   In **CIKM'2023**, [[Paper](https://arxiv.org/pdf/2309.16424.pdf )] [[Code](https://github.com/jiayingwu19/Prompt-and-Align)]. `Fake News Detection`
+2. **Voucher Abuse Detection with Prompt-based Fine-tuning on Graph Neural Networks**.
+   In **CIKM'2023**, [[Paper](https://arxiv.org/abs/2308.10028 )]. `Fraud Detection`
 
-### Recommender Systems 
 
-* Motif-Based Prompt Learning for Universal Cross-Domain Recommendation (***WSDM'2024***) [[Paper](https://arxiv.org/abs/2310.13303)]
-* Representation Learning with Large Language Models for Recommendation (***October 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.15950)]
-* An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations (***NeurIPS'2023***) [[Paper](https://openreview.net/pdf?id=XyAP8ScqLV)] [[Code](https://github.com/Haoran-Young/CPTPP )]
-* Contrastive Graph Prompt-tuning for Cross-domain Recommendation (***August 2023, arXiv***) [[Paper](https://arxiv.org/pdf/2308.10685.pdf )]
+### Recommender Systems
+1. **Contrastive Graph Prompt-tuning for Cross-domain Recommendation**.
+   In **TOIS'2023**, [[Paper](https://arxiv.org/pdf/2308.10685.pdf )]. `Cross-domain Recommendation`
+2. **An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations**.
+   In **NeurIPS'2023**, [[Paper](https://openreview.net/pdf?id=XyAP8ScqLV)] [[Code](https://github.com/Haoran-Young/CPTPP )]. `General Recommendation`
+3. **Motif-Based Prompt Learning for Universal Cross-Domain Recommendation**.
+   In **WSDM'2024**, [[Paper](https://arxiv.org/abs/2310.13303)]. `Cross-domain Recommendation`
 
-### Text Attributed Graphs 
+### Knowledge Graph
+1. **Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer**.
+   In **WWW'2023**, [[Paper](https://arxiv.org/pdf/2303.03922.pdf )] [[Code](https://github.com/zjukg/KGTransformer )]. 
+2. **Graph Neural Prompting with Large Language Models**.
+   In **arXiv**, [[Paper](https://arxiv.org/pdf/2309.15427.pdf)].
+3. **Knowledge Graph Prompting for Multi-Document Question Answering**.
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2308.11730 )] [[Code](https://github.com/YuWVandy/KG-LLM-MDQA )].
 
-* Disentangled Representation Learning with Large Language Models for Text-Attributed Graphs (***October 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.18152)]
-* Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs (***September 2023, arXiv***) [[Paper](https://arxiv.org/abs/2309.02848 )]
-* Prompt-Based Zero- and Few-Shot Node Classification: A Multimodal Approach (***July 2023, arXiv***) [[Paper](https://arxiv.org/abs/2307.11572 )]
-* Prompt Tuning on Graph-augmented Low-resource Text Classification (***July 2023, arXiv***) [[Paper](https://arxiv.org/abs/2307.10230 )] [[Code](https://github.com/WenZhihao666/G2P2-conditional )]
-* Augmenting Low-Resource Text Classification with Graph-Grounded Pre-training and Prompting (***SIGIR'2023***) [[Paper](https://arxiv.org/abs/2305.03324 )] [[Code](https://github.com/WenZhihao666/G2P2 )]
+### Biology
+1. **GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning**.
+   In **NeurIPS'2023**, [[Paper](https://arxiv.org/pdf/2306.13089.pdf)] [[Code](https://github.com/zhao-ht/GIMLET )].
+2. **MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter**.
+   In **EMNLP'2023**, [[Paper](http://arxiv.org/abs/2310.12798)] [[Code](https://github.com/acharkq/MolCA)].
 
-### Question Answering
 
-* Knowledge Graph Prompting for Multi-Document Question Answering (***August 2023, arXiv***) [[Paper](https://arxiv.org/abs/2308.11730 )] [[Code](https://github.com/YuWVandy/KG-LLM-MDQA )]
-
-### Fake News Detection 
-
-* Prompt-and-Align: Prompt-Based Social Alignment for Few-Shot Fake News Detection (***CIKM'2023***) [[Paper](https://arxiv.org/pdf/2309.16424.pdf )] [[Code](https://github.com/jiayingwu19/Prompt-and-Align)]
-
-### Fraud Detection
-
-* Voucher Abuse Detection with Prompt-based Fine-tuning on Graph Neural Networks (***CIKM'2023***) [[Paper](https://arxiv.org/abs/2308.10028 )]
-  
-
-### OOD Detection 
-
-* A Data-centric Framework to Endow Graph Neural Networks with Out-Of-Distribution Detection Ability (***KDD'2023***) [[Paper](http://shichuan.org/doc/150.pdf)] [[Code](https://github.com/BUPT-GAMMA/AAGOD )]
+### Others
+1. **A Data-centric Framework to Endow Graph Neural Networks with Out-Of-Distribution Detection Ability**.
+   In **KDD'2023**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599244)] [[Code](https://github.com/BUPT-GAMMA/AAGOD )]. `OOD Detection`
 
 
 
