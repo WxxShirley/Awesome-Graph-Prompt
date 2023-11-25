@@ -18,9 +18,8 @@ This repo aims to provide a curated list of research papers that explore the pro
 
 ## Table of Contents
 
-- [Awesome-Graph-Prompt](#awesome-graph-prompt-awesomehttpsawesomerebadgesvghttpsawesomere)
+- [Awesome-Graph-Prompt](#awesome-graph-prompt)
   - [Table of Contents](#table-of-contents)
-  - [Survey](#survey)
   - [GNN Prompting Papers](#gnn-prompting-papers) 
   - [Application Papers](#application-papers)
      - [Social Networks](#social-networks)
@@ -36,40 +35,64 @@ This repo aims to provide a curated list of research papers that explore the pro
   
 
 
-
-## Survey
-
-* A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges (*May 2023, arXiv*) [[Paper](https://arxiv.org/abs/2303.07275)]
-
-
-
 ## GNN Prompting Papers
 
-* Enhancing Graph Neural Networks with Structure-Based Prompt (***October 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.17394)]
-* HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks (***October 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.15318)]
-* ULTRA-DP:Unifying Graph Pre-training with Multi-task Graph Dual Prompt (***October 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.14845)]
-* Prompt Tuning for Multi-View Graph Contrastive Learning (***October 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.10362)]
-* GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning (***October 2023, arXiv***) [[Paper](https://arxiv.org/abs/2310.07365)]
-* Deep Prompt Tuning for Graph Transformers (***September 2023, arXiv***) [[Paper](https://arxiv.org/abs/2309.10131))
-* Universal Prompt Tuning for Graph Neural Networks (***NeurIPS'2023***) [[Paper](https://arxiv.org/abs/2209.15240)]
-* Virtual Node Tuning for Few-shot Node Classification (***KDD'2023***) [[Paper](https://arxiv.org/abs/2306.06063)]
-* All in One: Multi-Task Prompting for Graph Neural Networks (***KDD'2023 Best Paper Award 🌟***) [[Paper](https://arxiv.org/abs/2307.01504 )]  [[Code](https://github.com/sheldonresearch/ProG)]
-* PRODIGY: Enabling In-context Learning Over Graphs (***NeurIPS' 2023 Spotlight***) [[Paper](https://arxiv.org/abs/2305.12600)] [[Code](https://github.com/snap-stanford/prodigy )]
-* GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks (***WWW'2023***) [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583386 )] [[Code](https://github.com/Starlien95/GraphPrompt )]
-* SGL-PT: A Strong Graph Learner with Graph Prompt Tuning (***Feb 2023, arXiv***) [[Paper](https://arxiv.org/abs/2302.12449)]
-* GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks (***KDD'2022***) [[Paper](https://dl.acm.org/doi/10.1145/3534678.3539249 )]  [[Code](https://github.com/MingChen-Sun/GPPT)]
 
- 
-A Summary of Methodology Details 
+1. **GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks**.
+   In **KDD'2022**, [[Paper](https://dl.acm.org/doi/10.1145/3534678.3539249 )]  [[Code](https://github.com/MingChen-Sun/GPPT)].
 
-|       Model     |     Pre-training Method          | Downstream Tasks | Prompt Design                             | Pub   |
-| :-------------: | :------------------------------: | :--------------: | :---------------------------------------: | :---: |
-|    All in One   |For All (work as a plug-and-play) |  Node/Edge/Graph |   Prompt tokens with learnable structures | KDD23 |
-|      PGCL       |            Customozied           |  Node/Edge/Graph |    Prompt tokens                          | arXiv23/10|
-|     GraphPrompt |         Link Prediction          |    Node/Graph    |    Prompt token                           | WWW23 |
-|     GPF-plus    |For All (work as a plug-and-play) |         Graph    |    Prompt tokens                          | NIPS23|
-|     GPF         |For All (work as a plug-and-play) |         Graph    |    Prompt token                           | NIPS23|
-|      GPPT       |          Link Prediction         |    Node          |    Prompt tokens                          | KDD22 |
+    ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red)  ![](https://img.shields.io/badge/Downstream%3A%20Node-yellow)
+
+2. **SGL-PT: A Strong Graph Learner with Graph Prompt Tuning**.
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2302.12449)].
+
+3. **GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks**.
+   In **WWW'2023**, [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583386 )] [[Code](https://github.com/Starlien95/GraphPrompt )].
+
+   ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
+
+4. **All in One: Multi-Task Prompting for Graph Neural Networks**.
+   In **KDD'2023** Best Paper Award 🌟, [[Paper](https://arxiv.org/abs/2307.01504 )]  [[Code](https://github.com/sheldonresearch/ProG)].
+
+   ![](https://img.shields.io/badge/Encoder%3AGNN-green) ![](https://img.shields.io/badge/Prompt%20as%20Graphs-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FEdge%2FGraph-yellow)
+
+5. **Virtual Node Tuning for Few-shot Node Classification**.
+   In **KDD'2023**, [[Paper](https://arxiv.org/abs/2306.06063)].
+
+   ![](https://img.shields.io/badge/Encoder%3AGraph%20Transformer-green) ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node-yellow)
+
+6. **PRODIGY: Enabling In-context Learning Over Graphs**.
+   In **NeurIPS'2023** Spotlight 🌟, [[Paper](https://arxiv.org/abs/2305.12600)] [[Code](https://github.com/snap-stanford/prodigy )].
+
+   ![](https://img.shields.io/badge/Encoder%3AGNN-green) ![](https://img.shields.io/badge/Prompt%20as%20Graphs-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FEdge%2FGraph-yellow)
+
+7. **Universal Prompt Tuning for Graph Neural Networks**.
+   In **NeurIPS'2023**, [[Paper](https://arxiv.org/abs/2209.15240)].
+
+   ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Graph-yellow)
+
+8. **Deep Prompt Tuning for Graph Transformers**.
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2309.10131)].
+
+   ![](https://img.shields.io/badge/Encoder%3AGraph%20Transformer-green) ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Graph-yellow)
+
+9. **Prompt Tuning for Multi-View Graph Contrastive Learning**.
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2310.10362)].
+
+10. **ULTRA-DP:Unifying Graph Pre-training with Multi-task Graph Dual Prompt**.
+    In **arXiv**, [[Paper](https://arxiv.org/abs/2310.14845)].
+
+    ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red)  ![](https://img.shields.io/badge/Downstream%3A%20Node-yellow).
+
+11. **HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks**.
+    In **arXiv**, [[Paper](https://arxiv.org/abs/2310.15318)].
+
+    ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red)  ![](https://img.shields.io/badge/Downstream%3A%20Node-yellow).
+
+12. **Enhancing Graph Neural Networks with Structure-Based Prompt**.
+    In **arXiv**, [[Paper](https://arxiv.org/abs/2310.17394)].
+
+    ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
 
 
 
