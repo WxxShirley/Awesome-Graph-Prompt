@@ -50,51 +50,56 @@ This repo aims to provide a curated list of research papers that explore the pro
 
 2. **SGL-PT: A Strong Graph Learner with Graph Prompt Tuning**.
    In **arXiv**, [[Paper](https://arxiv.org/abs/2302.12449)].
+   
+   ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node-yellow)
+   
 
-3. **GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks**.
+4. **GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks**.
    In **WWW'2023**, [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583386 )] [[Code](https://github.com/Starlien95/GraphPrompt )].
 
    ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
 
-4. **All in One: Multi-Task Prompting for Graph Neural Networks**.
+5. **All in One: Multi-Task Prompting for Graph Neural Networks**.
    In **KDD'2023** Best Paper Award 🌟, [[Paper](https://arxiv.org/abs/2307.01504 )]  [[Code](https://github.com/sheldonresearch/ProG)].
 
    ![](https://img.shields.io/badge/Encoder%3AGNN-green) ![](https://img.shields.io/badge/Prompt%20as%20Graphs-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FEdge%2FGraph-yellow)
 
-5. **Virtual Node Tuning for Few-shot Node Classification**.
+6. **Virtual Node Tuning for Few-shot Node Classification**.
    In **KDD'2023**, [[Paper](https://arxiv.org/abs/2306.06063)].
 
    ![](https://img.shields.io/badge/Encoder%3AGraph%20Transformer-green) ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node-yellow)
 
-6. **PRODIGY: Enabling In-context Learning Over Graphs**.
+7. **PRODIGY: Enabling In-context Learning Over Graphs**.
    In **NeurIPS'2023** Spotlight 🌟, [[Paper](https://arxiv.org/abs/2305.12600)] [[Code](https://github.com/snap-stanford/prodigy )].
 
    ![](https://img.shields.io/badge/Encoder%3AGNN-green) ![](https://img.shields.io/badge/Prompt%20as%20Graphs-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FEdge%2FGraph-yellow)
 
-7. **Universal Prompt Tuning for Graph Neural Networks**.
+8. **Universal Prompt Tuning for Graph Neural Networks**.
    In **NeurIPS'2023**, [[Paper](https://arxiv.org/abs/2209.15240)].
 
    ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Graph-yellow)
 
-8. **Deep Prompt Tuning for Graph Transformers**.
+9. **Deep Prompt Tuning for Graph Transformers**.
    In **arXiv**, [[Paper](https://arxiv.org/abs/2309.10131)].
 
    ![](https://img.shields.io/badge/Encoder%3AGraph%20Transformer-green) ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Graph-yellow)
 
-9. **Prompt Tuning for Multi-View Graph Contrastive Learning**.
+10. **Prompt Tuning for Multi-View Graph Contrastive Learning**.
    In **arXiv**, [[Paper](https://arxiv.org/abs/2310.10362)].
 
-10. **ULTRA-DP:Unifying Graph Pre-training with Multi-task Graph Dual Prompt**.
+    ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FEdge%2FGraph-yellow)
+
+11. **ULTRA-DP:Unifying Graph Pre-training with Multi-task Graph Dual Prompt**.
     In **arXiv**, [[Paper](https://arxiv.org/abs/2310.14845)].
 
     ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red)  ![](https://img.shields.io/badge/Downstream%3A%20Node-yellow)
 
-11. **HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks**.
+12. **HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks**.
     In **arXiv**, [[Paper](https://arxiv.org/abs/2310.15318)].
 
     ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red)  ![](https://img.shields.io/badge/Downstream%3A%20Node-yellow)
 
-12. **Enhancing Graph Neural Networks with Structure-Based Prompt**.
+13. **Enhancing Graph Neural Networks with Structure-Based Prompt**.
     In **arXiv**, [[Paper](https://arxiv.org/abs/2310.17394)].
 
     ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
