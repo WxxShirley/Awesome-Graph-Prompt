@@ -32,7 +32,7 @@ This repo aims to provide a curated list of research papers that explore the pro
      - [Knowledge Graph](#knowledge-graph)
      - [Biology](#biology)
      - [Others](#others)
-  - [Ohter Resources](#other-resources)
+  - [Other Resources](#other-resources)
      - [Open Source](#open-source)
      - [Datasets](#datasets)
      - [Online Talks](#online-talks)
