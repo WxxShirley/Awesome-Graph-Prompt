@@ -21,9 +21,11 @@ This repo aims to provide a curated list of research papers that explore the pro
 - [Awesome-Graph-Prompt](#awesome-graph-prompt)
   - [Table of Contents](#table-of-contents)
   - [GNN Prompting Papers](#gnn-prompting-papers)
-  - [Multi-Modal and Multi-Domain Papers](#multi-modal-and-multi-domain-papers)
-     - [Multi-Modal Prompting with Graphs](#multi-modal-prompting-with-graphs)
-     - [Graph Domain Adaptation with Prompting](#graph-domain-adaptation-with-prompting)
+  - [Multi-Modal Prompting with Graphs](#multi-modal-prompting-with-graphs)
+     - [Prompt in Text-Attributed Graphs](#prompt-in-text-attributed-graphs)
+     - [Large Language Models in Graph Data Processing](#large-language-models-in-graph-data-processing)
+     - [Multi-modal Fusion with Graph and Prompting](#multi-modal-fusion-with-graph-and-prompting)
+  - [Graph Domain Adaptation with Prompting](#graph-domain-adaptation-with-prompting)
   - [Application Papers](#application-papers)
      - [Social Networks](#social-networks)
      - [Recommender Systems](#recommender-systems)
@@ -99,65 +101,55 @@ This repo aims to provide a curated list of research papers that explore the pro
 
 
 
-## Multi-Modal and Multi-Domain Papers
+## Multi-Modal Prompting with Graphs
 
-### Multi-Modal Prompting with Graphs 
+### Prompt in Text-Attributed Graphs 
 
 1. **Augmenting Low-Resource Text Classification with Graph-Grounded Pre-training and Prompting**.
-   In **SIGIR'2023**, [[Paper](https://arxiv.org/abs/2305.03324 )] [[Code](https://github.com/WenZhihao666/G2P2 )]. `Graph+Text`
+   In **SIGIR'2023**, [[Paper](https://arxiv.org/abs/2305.03324 )] [[Code](https://github.com/WenZhihao666/G2P2 )]. 
 
 2. **Prompt Tuning on Graph-augmented Low-resource Text Classification**.
-   In **arXiv**, [[Paper](https://arxiv.org/abs/2307.10230 )] [[Code](https://github.com/WenZhihao666/G2P2-conditional )]. `Graph+Text`
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2307.10230 )] [[Code](https://github.com/WenZhihao666/G2P2-conditional )]. 
 
 3. **Prompt-Based Zero- and Few-Shot Node Classification: A Multimodal Approach**. 
-   In **arXiv**, [[Paper](https://arxiv.org/abs/2307.11572 )]. `Graph+Text`
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2307.11572 )]. 
 
 4. **Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs**. 
-   In **arXiv**, [[Paper](https://arxiv.org/abs/2309.02848 )]. `Graph+Text`
- 
-5. **One for All: Towards Training One Graph Model for All Classification Tasks**.
-   In **arXiv**, [[Paper](https://arxiv.org/pdf/2310.00149.pdf)] [[Code](https://github.com/LechengKong/OneForAll )]. `Graph+Text`
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2309.02848 )]. 
 
-6. **GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph**.
+### Large Language Models in Graph Data Processing
+
+> 
+>  For this research line, please refer to **Awesome LLMs with Graph Tasks** [[Survey Paper](https://arxiv.org/abs/2311.12399) | [Github Repo](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks)]
+>  
+
+
+
+
+### Multi-modal Fusion with Graph and Prompting
+
+1. **GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph**.
    In **NeurIPS'2023**, [[Paper](http://arxiv.org/abs/2309.13625)] [[Code](https://github.com/lixinustc/GraphAdapter )]. `Graph+Text+Image`
 
-7. **SynerGPT: In-Context Learning for Personalized Drug Synergy Prediction and Drug Design**.
+2. **SynerGPT: In-Context Learning for Personalized Drug Synergy Prediction and Drug Design**.
    In **arXiv**, [[Paper](http://arxiv.org/abs/2307.11694)]. `Graph+Text`
 
-8. **Can Language Models Solve Graph Problems in Natural Language?**
-   In **NeurIPS'2023** spotlight 🌟, [[Paper](https://arxiv.org/abs/2305.10037)]  [[Code](https://github.com/Arthur-Heng/NLGraph)]. `Graph+Text`
-
-9. **GPT4Graph: Can Large Language Models Understand Graph Structured Data? An Empirical Evaluation and Benchmarking**.
-   In **arXiv**, [[Paper](https://arxiv.org/abs/2305.15066)] [[Code](https://anonymous.4open.science/r/GPT4Graph)]. `Graph+Text`
-
-10. **Talk like a Graph: Encoding Graphs for Large Language Models**.
-    In **arXiv**, [[Paper](https://arxiv.org/abs/2310.04560)]. `Graph+Text`
-
-11. **GraphText: Graph Reasoning in Text Space**.
-    In **arXiv**, [[Paper](https://arxiv.org/abs/2310.01089)]. `Graph+Text`
-
-12. **GraphLLM: Boosting Graph Reasoning Ability of Large Language Model**.
-    In **arXiv**, [[Paper](https://arxiv.org/abs/2310.05845)] [[Code](https://github.com/mistyreed63849/Graph-LLM)]. `Graph+Text`
-
-13. **GraphGPT: Graph Instruction Tuning for Large Language Models**.
-    In **arXiv**, [[Paper](https://arxiv.org/abs/2310.13023v1)] [[Code](https://github.com/HKUDS/GraphGPT)]. `Graph+Text`
-
-14. **Disentangled Representation Learning with Large Language Models for Text-Attributed Graphs**.
-    In **arXiv**, [[Paper](https://arxiv.org/abs/2310.18152)]. `Graph+Text`
-
-15. **LLM4DyG: Can Large Language Models Solve Problems on Dynamic Graphs?**
-    In **arXiv**, [[Paper](https://arxiv.org/pdf/2310.17110.pdf)]. `Graph+Text`
-
-16. **Which Modality should I use - Text, Motif, or Image? Understanding Graphs with Large Language Models**.
+3. **Which Modality should I use - Text, Motif, or Image? Understanding Graphs with Large Language Models**.
     In **arXiv**, [[Paper](https://arxiv.org/pdf/2311.09862.pdf)]. `Graph+Text+Image`
 
 
-### Graph Domain Adaptation with Prompting
+## Graph Domain Adaptation with Prompting
 
-1. **GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning**.
+1. **GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks**.
+   In **KDD'2023**, [[Paper](https://arxiv.org/pdf/2306.11264.pdf)] [[Code](https://github.com/WtaoZhao/GraphGLOW )].
+
+   ![](https://img.shields.io/badge/Structural%20Alignment-A52A2A)
+
+2. **GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning**.
    In **arXiv**, [[Paper](https://arxiv.org/abs/2310.07365)].
 
-   
+   ![](https://img.shields.io/badge/Semantic%20Alignment-A52A2A)
+
 
 ## Application Papers
 
