@@ -35,6 +35,7 @@ This repo aims to provide a curated list of research papers that explore the pro
   - [Ohter Resources](#other-resources)
      - [Open Source](#open-source)
      - [Datasets](#datasets)
+     - [Online Talks](#online-talks)
      - [Blogs](#blogs)
   - [Contributing](#contributing)
   
@@ -263,6 +264,8 @@ Datasets that are commonly used in GNN prompting papers.
   
 </details>
 
+### Online Talks
+* Official Presentation of **All in One** [Link](https://www.bilibili.com/video/BV1q94y1k7nF)
 
 ### Blogs
 * A Chinese Blog on Graph Prompting (including GPPT, GraphPrompt, All in One, etc) [[Link](https://mp.weixin.qq.com/s/_Khx87cdN6RGiOGkiUjV8Q)]
@@ -272,6 +275,3 @@ Datasets that are commonly used in GNN prompting papers.
 👍 Contributions to this repository are welcome! 
 
 If you have come across relevant resources, feel free to open an issue or submit a pull request.
-```
-- paper_name (***journal***) [[Paper](link)] [[Code](link)]
-```
