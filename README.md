@@ -103,7 +103,7 @@ This repo aims to provide a curated list of research papers that explore the pro
 13. **Enhancing Graph Neural Networks with Structure-Based Prompt**.
     In **arXiv**, [[Paper](https://arxiv.org/abs/2310.17394)].
 
-    ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
+    ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Graphs-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
 
 
 
