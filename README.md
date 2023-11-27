@@ -76,7 +76,7 @@ This repo aims to provide a curated list of research papers that explore the pro
    ![](https://img.shields.io/badge/Encoder%3AGNN-green) ![](https://img.shields.io/badge/Prompt%20as%20Graphs-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FEdge%2FGraph-yellow)
 
 8. **Universal Prompt Tuning for Graph Neural Networks**.
-   In **NeurIPS'2023**, [[Paper](https://arxiv.org/abs/2209.15240)].
+   In **NeurIPS'2023**, [[Paper](https://arxiv.org/abs/2209.15240)] [[Code](https://github.com/LuckyTiger123/GPF)].
 
    ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Graph-yellow)
 
@@ -121,7 +121,10 @@ This repo aims to provide a curated list of research papers that explore the pro
    In **arXiv**, [[Paper](https://arxiv.org/abs/2307.11572 )]. 
 
 4. **Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs**. 
-   In **arXiv**, [[Paper](https://arxiv.org/abs/2309.02848 )]. 
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2309.02848 )].
+
+5. **Large Language Models as Topological Structure Enhancers for Text-Attributed Graphs**.
+   In **arXiv**, [[Paper](https://arxiv.org/pdf/2311.14324.pdf )].
 
 ### Large Language Models in Graph Data Processing
 
