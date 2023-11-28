@@ -11,7 +11,7 @@
 Recently, the workflow of **"pre-train, fine-tune"** has been proved less effective and efficient when dealing with diverse downstream tasks on graph domain.
 Inspired by the prompt learning in natural language processing (NLP) domain, the **"pre-train, prompt"** workflow has emerged as a promising solution. 
 
-This repo aims to provide a curated list of research papers that explore the prompting on graphs. We will try to make this list updated frequently. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
+This repo aims to provide a curated list of research papers that explore the prompting on graphs. We will try to make this list updated frequently. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.🌹
 
 
 
