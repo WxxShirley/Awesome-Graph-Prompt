@@ -46,6 +46,11 @@ We will try to make this list updated frequently. If you found any error or any 
 
 ## GNN Prompting Papers
 
+Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgraph. $V(\mathcal{S})$: Node set within subgraph $\mathcal{S}$. $\pi$: Pre-trained parameters. $\phi$: Task head parameters. $\theta$: Prompt parameters.  $\widetilde{\mathbf{s}}$: Filled prompt.
+
+![GraphPromptSummary](./README.assets/Summary_Graph_Prompt.jpg)
+
+
 
 1. **GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks**.
    In **KDD'2022**, [[Paper](https://dl.acm.org/doi/10.1145/3534678.3539249 )]  [[Code](https://github.com/MingChen-Sun/GPPT)].
