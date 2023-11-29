@@ -138,7 +138,9 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 
 > 
 >  For this research line, please refer to **Awesome LLMs with Graph Tasks** [[Survey Paper](https://arxiv.org/abs/2311.12399) | [Github Repo](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks)]
->  
+> 
+>  We **highly recommend** this work as they have provided a comprehensive survey to summarize the works on the integration of **LLM and Graph** 👍 
+
 
 
 
