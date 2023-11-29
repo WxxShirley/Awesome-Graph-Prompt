@@ -11,7 +11,9 @@
 Recently, the workflow of **"pre-train, fine-tune"** has been proved less effective and efficient when dealing with diverse downstream tasks on graph domain.
 Inspired by the prompt learning in natural language processing (NLP) domain, the **"pre-train, prompt"** workflow has emerged as a promising solution. 
 
-This repo aims to provide a curated list of research papers that explore the prompting on graphs. We will try to make this list updated frequently. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.🌹
+This repo aims to provide a curated list of research papers that explore the prompting on graphs. 
+**It is based on our Survey Paper: [Graph Prompt Learning: A Comprehensive Survey and Beyond](https://arxiv.org/abs/2311.16534)**. 
+We will try to make this list updated frequently. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.🌹
 
 
 
@@ -38,6 +40,7 @@ This repo aims to provide a curated list of research papers that explore the pro
      - [Online Talks](#online-talks)
      - [Blogs](#blogs)
   - [Contributing](#contributing)
+  - [Citation](#citation)
   
 
 
@@ -278,3 +281,38 @@ Datasets that are commonly used in GNN prompting papers.
 👍 Contributions to this repository are welcome! 
 
 If you have come across relevant resources, feel free to open an issue or submit a pull request.
+
+
+## Citation
+
+If you find our work helpful to you, please feel free to cite it:
+
+[Survey Paper](https://arxiv.org/abs/2311.16534)
+```
+@article{sun2023graph,
+  title = {Graph Prompt Learning: A Comprehensive Survey and Beyond},
+  author = {Sun, Xiangguo and Zhang, Jiawen and Wu, Xixi and Cheng, Hong and Xiong, Yun and Li, Jia},
+  year = {2023},
+  journal = {arXiv:2311.16534},
+  eprint = {2311.16534},
+  archiveprefix = {arxiv}
+}
+```
+
+[ProG Library](https://github.com/sheldonresearch/ProG)
+```
+@inproceedings{sun2023all,
+  title={All in One: Multi-Task Prompting for Graph Neural Networks},
+  author={Sun, Xiangguo and Cheng, Hong and Li, Jia and Liu, Bo and Guan, Jihong},
+  booktitle={Proceedings of the 26th ACM SIGKDD international conference on knowledge discovery \& data mining (KDD'23)},
+  year={2023},
+  pages = {2120–2131},
+  location = {Long Beach, CA, USA},
+  isbn = {9798400701030},
+  url = {https://doi.org/10.1145/3580305.3599256},
+  doi = {10.1145/3580305.3599256}
+}
+
+```
+
+
