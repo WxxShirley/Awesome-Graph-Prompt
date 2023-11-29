@@ -113,6 +113,9 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 
     ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Graphs-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
 
+14. **Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs**.
+    In **arXiv**, [[Paper](https://arxiv.org/abs/2311.15317)] [[Code](https://github.com/gmcmt/graph_prompt_extension)].
+
 
 
 ## Multi-Modal Prompting with Graphs
@@ -187,6 +190,8 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
    In **NeurIPS'2023**, [[Paper](https://openreview.net/pdf?id=XyAP8ScqLV)] [[Code](https://github.com/Haoran-Young/CPTPP )]. `General Recommendation`
 3. **Motif-Based Prompt Learning for Universal Cross-Domain Recommendation**.
    In **WSDM'2024**, [[Paper](https://arxiv.org/abs/2310.13303)]. `Cross-domain Recommendation`
+4. **Graph Pre-training and Prompt Learning for Recommendation**.
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2311.16716)].  `General Recommendation`
 
 ### Knowledge Graph
 1. **Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer**.
