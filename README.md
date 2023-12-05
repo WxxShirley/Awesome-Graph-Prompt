@@ -119,6 +119,12 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
     ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
 
 
+15. **HGPROMPT: Bridging Homogeneous and Heterogeneous Graphs for Few-shot Prompt Learning**.
+    In **arXiv**, [[Paper](https://arxiv.org/abs/2312.01878)].
+
+    
+
+
 ## Multi-Modal Prompting with Graphs
 
 ### Prompt in Text-Attributed Graphs 
