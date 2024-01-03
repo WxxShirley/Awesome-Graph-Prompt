@@ -120,7 +120,7 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 
 
 15. **HGPROMPT: Bridging Homogeneous and Heterogeneous Graphs for Few-shot Prompt Learning**.
-    In **AAAI'2024**, [[Paper](https://arxiv.org/abs/2312.01878)].
+    In **AAAI'2024**, [[Paper](https://arxiv.org/abs/2312.01878)] [[Code](https://github.com/Starlien95/HGPrompt)].
 
      ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
 
@@ -223,12 +223,15 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
    In **EMNLP'2023**, [[Paper](http://arxiv.org/abs/2310.12798)] [[Code](https://github.com/acharkq/MolCA)].
 4. **ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction**.
    In **EMNLP'2023**, [[Paper](https://arxiv.org/pdf/2310.13590.pdf)] [[Code](https://github.com/syr-cn/ReLM)].
+5. **MolCPT: Molecule Continuous Prompt Tuning to Generalize Molecular Representation Learning**.
+   In **WSDM'2024**, [[Paper](https://arxiv.org/abs/2212.10614)].
 
 
 ### Others
 1. **A Data-centric Framework to Endow Graph Neural Networks with Out-Of-Distribution Detection Ability**.
    In **KDD'2023**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599244)] [[Code](https://github.com/BUPT-GAMMA/AAGOD )]. `OOD Detection`
-
+2. **MMGPL: Multimodal Medical Data Analysis with Graph Prompt Learning**.
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2312.14574)]. 
 
 
 
