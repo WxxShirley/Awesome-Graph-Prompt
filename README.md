@@ -225,6 +225,8 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
    In **EMNLP'2023**, [[Paper](https://arxiv.org/pdf/2310.13590.pdf)] [[Code](https://github.com/syr-cn/ReLM)].
 5. **MolCPT: Molecule Continuous Prompt Tuning to Generalize Molecular Representation Learning**.
    In **WSDM'2024**, [[Paper](https://arxiv.org/abs/2212.10614)].
+6. **Protein Multimer Structure Prediction via PPI-guided Prompt Learning**.
+   In **ICLR'2024**, [[Paper](https://openreview.net/forum?id=OHpvivXrQr)].
 
 
 ### Others
