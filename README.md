@@ -73,53 +73,58 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 
    ![](https://img.shields.io/badge/Encoder%3AGNN-green) ![](https://img.shields.io/badge/Prompt%20as%20Graphs-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FEdge%2FGraph-yellow)
 
-6. **Virtual Node Tuning for Few-shot Node Classification**.
+6. **Deep Graph Reprogramming**.
+   In **CVPR'2023** Highlight 🌟, [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jing_Deep_Graph_Reprogramming_CVPR_2023_paper.pdf)]
+
+   ![](https://img.shields.io/badge/Encoder%3AGNN-green) ![](https://img.shields.io/badge/Prompt%20as%20Graphs-red)  ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
+
+7. **Virtual Node Tuning for Few-shot Node Classification**.
    In **KDD'2023**, [[Paper](https://arxiv.org/abs/2306.06063)].
 
    ![](https://img.shields.io/badge/Encoder%3AGraph%20Transformer-green) ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node-yellow)
 
-7. **PRODIGY: Enabling In-context Learning Over Graphs**.
+8. **PRODIGY: Enabling In-context Learning Over Graphs**.
    In **NeurIPS'2023** Spotlight 🌟, [[Paper](https://arxiv.org/abs/2305.12600)] [[Code](https://github.com/snap-stanford/prodigy )].
 
    ![](https://img.shields.io/badge/Encoder%3AGNN-green) ![](https://img.shields.io/badge/Prompt%20as%20Graphs-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FEdge%2FGraph-yellow)
 
-8. **Universal Prompt Tuning for Graph Neural Networks**.
+9. **Universal Prompt Tuning for Graph Neural Networks**.
    In **NeurIPS'2023**, [[Paper](https://arxiv.org/abs/2209.15240)] [[Code](https://github.com/LuckyTiger123/GPF)].
 
    ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Graph-yellow)
 
-9. **Deep Prompt Tuning for Graph Transformers**.
+10. **Deep Prompt Tuning for Graph Transformers**.
    In **arXiv**, [[Paper](https://arxiv.org/abs/2309.10131)].
 
    ![](https://img.shields.io/badge/Encoder%3AGraph%20Transformer-green) ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Graph-yellow)
 
-10. **Prompt Tuning for Multi-View Graph Contrastive Learning**.
+11. **Prompt Tuning for Multi-View Graph Contrastive Learning**.
    In **arXiv**, [[Paper](https://arxiv.org/abs/2310.10362)].
 
     ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FEdge%2FGraph-yellow)
 
-11. **ULTRA-DP:Unifying Graph Pre-training with Multi-task Graph Dual Prompt**.
+12. **ULTRA-DP:Unifying Graph Pre-training with Multi-task Graph Dual Prompt**.
     In **arXiv**, [[Paper](https://arxiv.org/abs/2310.14845)].
 
     ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red)  ![](https://img.shields.io/badge/Downstream%3A%20Node-yellow)
 
-12. **HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks**.
+13. **HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks**.
     In **arXiv**, [[Paper](https://arxiv.org/abs/2310.15318)].
 
     ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red)  ![](https://img.shields.io/badge/Downstream%3A%20Node-yellow)
 
-13. **Enhancing Graph Neural Networks with Structure-Based Prompt**.
+14. **Enhancing Graph Neural Networks with Structure-Based Prompt**.
     In **arXiv**, [[Paper](https://arxiv.org/abs/2310.17394)].
 
     ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Graphs-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
 
-14. **Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs**.
+15. **Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs**.
     In **arXiv**, [[Paper](https://arxiv.org/abs/2311.15317)] [[Code](https://github.com/gmcmt/graph_prompt_extension)].
 
     ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
 
 
-15. **HGPROMPT: Bridging Homogeneous and Heterogeneous Graphs for Few-shot Prompt Learning**.
+16. **HGPROMPT: Bridging Homogeneous and Heterogeneous Graphs for Few-shot Prompt Learning**.
     In **AAAI'2024**, [[Paper](https://arxiv.org/abs/2312.01878)] [[Code](https://github.com/Starlien95/HGPrompt)].
 
      ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
@@ -344,5 +349,4 @@ If you find our work helpful to you, please feel free to cite it:
 }
 
 ```
-
 
