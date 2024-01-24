@@ -74,7 +74,7 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
    ![](https://img.shields.io/badge/Encoder%3AGNN-green) ![](https://img.shields.io/badge/Prompt%20as%20Graphs-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FEdge%2FGraph-yellow)
 
 6. **Deep Graph Reprogramming**.
-   In **CVPR'2023** Highlight 🌟, [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jing_Deep_Graph_Reprogramming_CVPR_2023_paper.pdf)]
+   In **CVPR'2023** Highlight 🌟, [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jing_Deep_Graph_Reprogramming_CVPR_2023_paper.pdf)].
 
    ![](https://img.shields.io/badge/Encoder%3AGNN-green) ![](https://img.shields.io/badge/Prompt%20as%20Graphs-red)  ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
 
@@ -96,7 +96,7 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 10. **Deep Prompt Tuning for Graph Transformers**.
    In **arXiv**, [[Paper](https://arxiv.org/abs/2309.10131)].
 
-   ![](https://img.shields.io/badge/Encoder%3AGraph%20Transformer-green) ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Graph-yellow)
+    ![](https://img.shields.io/badge/Encoder%3AGraph%20Transformer-green) ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Graph-yellow)
 
 11. **Prompt Tuning for Multi-View Graph Contrastive Learning**.
    In **arXiv**, [[Paper](https://arxiv.org/abs/2310.10362)].
@@ -131,7 +131,7 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 
 
 17. **MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs**.
-    In **arXiv**, [[Paper](https://arxiv.org/abs/2312.03731)].
+    In **WWW'2024**, [[Paper](https://arxiv.org/abs/2312.03731)].
 
      ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
 
