@@ -186,7 +186,7 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
    ![](https://img.shields.io/badge/Structural%20Alignment-A52A2A)
 
 2. **GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning**.
-   In **arXiv**, [[Paper](https://arxiv.org/abs/2310.07365)].
+   In **WWW'2024**, [[Paper](https://arxiv.org/abs/2310.07365)] [[Code](https://github.com/wykk00/GraphControl)] [[Chinese Blog](https://zhuanlan.zhihu.com/p/680351601)].
 
    ![](https://img.shields.io/badge/Semantic%20Alignment-A52A2A)
 
@@ -208,8 +208,8 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
    In **NeurIPS'2023**, [[Paper](https://openreview.net/pdf?id=XyAP8ScqLV)] [[Code](https://github.com/Haoran-Young/CPTPP )]. `General Recommendation`
 3. **Motif-Based Prompt Learning for Universal Cross-Domain Recommendation**.
    In **WSDM'2024**, [[Paper](https://arxiv.org/abs/2310.13303)]. `Cross-domain Recommendation`
-4. **Graph Pre-training and Prompt Learning for Recommendation**.
-   In **arXiv**, [[Paper](https://arxiv.org/abs/2311.16716)].  `General Recommendation`
+4. **GraphPro: Graph Pre-training and Prompt Learning for Recommendation**.
+   In **WWW'2024**, [[Paper](https://arxiv.org/abs/2311.16716)] [[Code](https://github.com/HKUDS/GraphPro)].  `General Recommendation`
 
 ### Knowledge Graph
 1. **Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer**.
