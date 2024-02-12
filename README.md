@@ -193,6 +193,9 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 
 ## Application Papers
 
+### Temporal Interaction Graphs 
+1. **Prompt Learning on Temporal Interaction Graphs**.
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2402.06326)].
 
 ### Social Networks
 1. **Prompt-and-Align: Prompt-Based Social Alignment for Few-Shot Fake News Detection**.
@@ -309,7 +312,7 @@ Datasets that are commonly used in GNN prompting papers.
 * Official Presentation of **All in One** [Link](https://www.bilibili.com/video/BV1q94y1k7nF)
 
 ### Blogs
-* A Chinese Blog on Graph Prompting (including GPPT, GraphPrompt, All in One, etc) [[Link](https://mp.weixin.qq.com/s/_Khx87cdN6RGiOGkiUjV8Q)]
+* A Chinese Blog that provides a comprehensive introduction of **ALL** graph prompting works [[Zhihu](https://zhuanlan.zhihu.com/p/681628720)]
 
 
 ## Contributing
