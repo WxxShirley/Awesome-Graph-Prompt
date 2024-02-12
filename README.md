@@ -29,6 +29,7 @@ We will try to make this list updated frequently. If you found any error or any 
      - [Multi-modal Fusion with Graph and Prompting](#multi-modal-fusion-with-graph-and-prompting)
   - [Graph Domain Adaptation with Prompting](#graph-domain-adaptation-with-prompting)
   - [Application Papers](#application-papers)
+     - [Temporal Interaction Graphs](#temporal-interaction-graphs)
      - [Social Networks](#social-networks)
      - [Recommender Systems](#recommender-systems)
      - [Knowledge Graph](#knowledge-graph)
