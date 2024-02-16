@@ -326,6 +326,74 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 If you find our work helpful to you, please feel free to cite it:
 
+
+```
+@inproceedings{sun2023all,
+  title={All in One: Multi-Task Prompting for Graph Neural Networks},
+  author={Sun, Xiangguo and Cheng, Hong and Li, Jia and Liu, Bo and Guan, Jihong},
+  booktitle={Proceedings of the 26th ACM SIGKDD international conference on knowledge discovery \& data mining (KDD'23)},
+  year={2023},
+  pages = {2120–2131},
+  location = {Long Beach, CA, USA},
+  isbn = {9798400701030},
+  url = {https://doi.org/10.1145/3580305.3599256},
+  doi = {10.1145/3580305.3599256}
+}
+
+@article{sun2023graph,
+  title = {Graph Prompt Learning: A Comprehensive Survey and Beyond},
+  author = {Sun, Xiangguo and Zhang, Jiawen and Wu, Xixi and Cheng, Hong and Xiong, Yun and Li, Jia},
+  year = {2023},
+  journal = {arXiv:2311.16534},
+  eprint = {2311.16534},
+  archiveprefix = {arxiv}
+}
+
+
+@article{zhao2024all,
+      title={All in One and One for All: A Simple yet Effective Method towards Cross-domain Graph Pretraining}, 
+      author={Haihong Zhao and Aochuan Chen and Xiangguo Sun and Hong Cheng and Jia Li},
+      year={2024},
+      eprint={2402.09834},
+      archivePrefix={arXiv}
+}
+
+
+@inproceedings{gao2024protein,
+  title={Protein Multimer Structure Prediction via {PPI}-guided Prompt Learning},
+  author={Ziqi Gao and Xiangguo Sun and Zijing Liu and Yu Li and Hong Cheng and Jia Li},
+  booktitle={The Twelfth International Conference on Learning Representations (ICLR)},
+  year={2024},
+  url={https://openreview.net/forum?id=OHpvivXrQr}
+}
+
+
+@article{chen2024prompt,
+      title={Prompt Learning on Temporal Interaction Graphs}, 
+      author={Xi Chen and Siwei Zhang and Yun Xiong and Xixi Wu and Jiawei Zhang and Xiangguo Sun and Yao Zhang and Yinglong Zhao and Yulin Kang},
+      year={2024},
+      eprint={2402.06326},
+      archivePrefix={arXiv},
+      journal = {arXiv:2402.06326}
+}
+
+@article{li2024survey,
+      title={A Survey of Graph Meets Large Language Model: Progress and Future Directions}, 
+      author={Yuhan Li and Zhixun Li and Peisong Wang and Jia Li and Xiangguo Sun and Hong Cheng and Jeffrey Xu Yu},
+      year={2024},
+      eprint={2311.12399},
+      archivePrefix={arXiv},
+      journal = {arXiv:2311.12399}
+}
+
+
+
+```
+
+
+
+
+
 [Survey Paper](https://arxiv.org/abs/2311.16534)
 ```
 @article{sun2023graph,
