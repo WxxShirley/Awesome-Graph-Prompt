@@ -110,7 +110,7 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
     ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red)  ![](https://img.shields.io/badge/Downstream%3A%20Node-yellow)
 
 13. **HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks**.
-    In **arXiv**, [[Paper](https://arxiv.org/abs/2310.15318)].
+    In **WWW'2024**, [[Paper](https://arxiv.org/abs/2310.15318)].
 
     ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red)  ![](https://img.shields.io/badge/Downstream%3A%20Node-yellow)
 
@@ -136,6 +136,11 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 
      ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
 
+18. **Subgraph-level Universal Prompt Tuning**.
+    In **arXiv**, [[Paper](https://arxiv.org/pdf/2402.10380.pdf)] [[Code](https://anonymous.4open.science/r/SUPT-F7B1/)].
+
+    ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Graph-yellow)
+
 
 ## Multi-Modal Prompting with Graphs
 
@@ -155,6 +160,10 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 
 5. **Large Language Models as Topological Structure Enhancers for Text-Attributed Graphs**.
    In **arXiv**, [[Paper](https://arxiv.org/pdf/2311.14324.pdf )].
+
+6. **ZeroG: Investigating Cross-dataset Zero-shot Transferability in Graphs**.
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2402.11235)].
+
 
 ### Large Language Models in Graph Data Processing
 
@@ -236,6 +245,8 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
    In **WSDM'2024**, [[Paper](https://arxiv.org/abs/2212.10614)].
 6. **Protein Multimer Structure Prediction via PPI-guided Prompt Learning**.
    In **ICLR'2024**, [[Paper](https://openreview.net/forum?id=OHpvivXrQr)].
+7. **DDIPrompt: Drug-Drug Interaction Event Prediction based on Graph Prompt Learning**.
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2402.11472)].
 
 
 ### Others
