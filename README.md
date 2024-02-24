@@ -141,6 +141,12 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 
     ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Graph-yellow)
 
+19. **Inductive Graph Alignment Prompt: Bridging the Gap between Graph Pre-training and Inductive Fine-tuning From Spectral Perspective**.
+    In **WWW'2024**, [[Paper](https://arxiv.org/pdf/2402.13556.pdf)].
+
+    ![](https://img.shields.io/badge/Encoder%3AGNN-green) ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red)  ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
+    
+
 
 ## Multi-Modal Prompting with Graphs
 
