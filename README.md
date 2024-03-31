@@ -265,7 +265,8 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
    In **KDD'2023**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599244)] [[Code](https://github.com/BUPT-GAMMA/AAGOD )]. `OOD Detection`
 2. **MMGPL: Multimodal Medical Data Analysis with Graph Prompt Learning**.
    In **arXiv**, [[Paper](https://arxiv.org/abs/2312.14574)]. 
-
+3. **Instruction-based Hypergraph Pretraining**.
+   In **SIGIR'2024**, [[Paper](https://arxiv.org/abs/2403.19063)]. `Hypergraph Prompt`
 
 
 ## Other Resources
