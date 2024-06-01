@@ -217,6 +217,8 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 ### Temporal Interaction Graphs 
 1. **Prompt Learning on Temporal Interaction Graphs**.
    In **arXiv**, [[Paper](https://arxiv.org/abs/2402.06326)].
+2. **DyGPrompt: Learning Feature and Time Prompts on Dynamic Graphs**.
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2405.13937)].
 
 ### Social Networks
 1. **Prompt-and-Align: Prompt-Based Social Alignment for Few-Shot Fake News Detection**.
