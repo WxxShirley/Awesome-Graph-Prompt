@@ -244,6 +244,9 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
    In **arXiv**, [[Paper](https://arxiv.org/pdf/2309.15427.pdf)].
 3. **Knowledge Graph Prompting for Multi-Document Question Answering**.
    In **arXiv**, [[Paper](https://arxiv.org/abs/2308.11730 )] [[Code](https://github.com/YuWVandy/KG-LLM-MDQA )].
+4. **Multi-domain Knowledge Graph Collaborative Pre-training and Prompt Tuning for Diverse Downstream Tasks**.
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2405.13085)] [[Code](https://github.com/zjukg/MuDoK)].
+   
 
 ### Biology
 1. **Can Large Language Models Empower Molecular Property Prediction?**
