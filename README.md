@@ -267,6 +267,8 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
    In **arXiv**, [[Paper](https://arxiv.org/abs/2312.14574)]. 
 3. **Instruction-based Hypergraph Pretraining**.
    In **SIGIR'2024**, [[Paper](https://arxiv.org/abs/2403.19063)]. `Hypergraph Prompt`
+4. **Cross-Context Backdoor Attacks against Graph Prompt Learning**.
+   In **KDD'2024**, [[Paper](https://arxiv.org/pdf/2405.17984)] [[Code](https://github.com/xtLyu/CrossBA)]. `Cross-Context Backdoor Attacks`
 
 
 ## Other Resources
