@@ -29,7 +29,7 @@ We will try to make this list updated frequently. If you found any error or any 
      - [Multi-modal Fusion with Graph and Prompting](#multi-modal-fusion-with-graph-and-prompting)
   - [Graph Domain Adaptation with Prompting](#graph-domain-adaptation-with-prompting)
   - [Application Papers](#application-papers)
-     - [Temporal Interaction Graphs](#temporal-interaction-graphs)
+     - [Dynamic Graphs](#dynamic-graphs)
      - [Social Networks](#social-networks)
      - [Recommender Systems](#recommender-systems)
      - [Knowledge Graph](#knowledge-graph)
@@ -214,10 +214,12 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 
 ## Application Papers
 
-### Temporal Interaction Graphs 
+### Dynamic Graphs
 1. **Prompt Learning on Temporal Interaction Graphs**.
    In **arXiv**, [[Paper](https://arxiv.org/abs/2402.06326)].
-2. **DyGPrompt: Learning Feature and Time Prompts on Dynamic Graphs**.
+2. **Prompt-Enhanced Spatio-Temporal Graph Transfer Learning**.
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2405.12452)].
+3. **DyGPrompt: Learning Feature and Time Prompts on Dynamic Graphs**.
    In **arXiv**, [[Paper](https://arxiv.org/abs/2405.13937)].
 
 ### Social Networks
