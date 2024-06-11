@@ -37,6 +37,7 @@ We will try to make this list updated frequently. If you found any error or any 
      - [Others](#others)
   - [Other Resources](#other-resources)
      - [Open Source](#open-source)
+     - [Benchmarks](#benchmarks)
      - [Datasets](#datasets)
      - [Online Talks](#online-talks)
      - [Blogs](#blogs)
@@ -284,6 +285,13 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 * **ProG: A Unified Library for Graph Prompting** [[Website](https://graphprompt.github.io/)] [[Code](https://github.com/sheldonresearch/ProG)]
   
   ProG (Prompt Graph) is a library built upon PyTorch to easily conduct single or multiple task prompting for a pre-trained Graph Neural Networks (GNNs).
+
+
+### Benchmarks
+
+* **ProG: A Graph Prompt Learning Benchmark** [[Paper](https://arxiv.org/pdf/2406.05346)]
+
+  ProG benchmark integrates **SIX** pre-training methods and **FIVE** state-of-the-art graph prompt techniques, evaluated across **FIFTEEN** diverse datasets to assess **performance, flexibility, and efficiency**.
 
 ### Datasets
 
