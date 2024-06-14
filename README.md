@@ -239,6 +239,8 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
    In **WSDM'2024**, [[Paper](https://arxiv.org/abs/2310.13303)]. `Cross-domain Recommendation`
 4. **GraphPro: Graph Pre-training and Prompt Learning for Recommendation**.
    In **WWW'2024**, [[Paper](https://arxiv.org/abs/2311.16716)] [[Code](https://github.com/HKUDS/GraphPro)].  `General Recommendation`
+5. **GPT4Rec: Graph Prompt Tuning for Streaming Recommendation**.
+   In **SIGIR'2024**, [[Paper](https://arxiv.org/pdf/2406.08229)]. `General Recommendation`
 
 ### Knowledge Graph
 1. **Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer**.
