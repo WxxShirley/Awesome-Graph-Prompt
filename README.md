@@ -146,7 +146,13 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
     In **WWW'2024**, [[Paper](https://arxiv.org/pdf/2402.13556.pdf)].
 
     ![](https://img.shields.io/badge/Encoder%3AGNN-green) ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red)  ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
-    
+
+
+20. **A Unified Graph Selective Prompt Learning for Graph Neural Networks**.
+    In **arXiv**, [[Paper](https://arxiv.org/pdf/2406.10498)].
+
+    ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Graph-yellow)
+
 
 
 ## Multi-Modal Prompting with Graphs
