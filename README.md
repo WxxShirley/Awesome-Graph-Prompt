@@ -175,7 +175,7 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
    In **arXiv**, [[Paper](https://arxiv.org/pdf/2311.14324.pdf )].
 
 6. **ZeroG: Investigating Cross-dataset Zero-shot Transferability in Graphs**.
-   In **arXiv**, [[Paper](https://arxiv.org/abs/2402.11235)].
+   In **KDD'2024**, [[Paper](https://arxiv.org/abs/2402.11235)].
 
 
 ### Large Language Models in Graph Data Processing
