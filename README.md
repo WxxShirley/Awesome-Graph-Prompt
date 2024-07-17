@@ -121,7 +121,7 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
     ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Graphs-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
 
 15. **Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs**.
-    In **arXiv**, [[Paper](https://arxiv.org/abs/2311.15317)] [[Code](https://github.com/gmcmt/graph_prompt_extension)].
+    In **TKDE'2024**, [[Paper](https://arxiv.org/abs/2311.15317)] [[Code](https://github.com/gmcmt/graph_prompt_extension)].
 
     ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
 
@@ -211,10 +211,10 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 2. **GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning**.
    In **WWW'2024**, [[Paper](https://arxiv.org/abs/2310.07365)] [[Code](https://github.com/wykk00/GraphControl)] [[Chinese Blog](https://zhuanlan.zhihu.com/p/680351601)].
 
-   ![](https://img.shields.io/badge/Semantic%20Alignment-A52A2A)
+   ![](https://img.shields.io/badge/Semantic%20Alignment-A52A2A)  ![](https://img.shields.io/badge/Structural%20Alignment-A52A2A)
 
 3. **All in One and One for All: A Simple yet Effective Method towards Cross-domain Graph Pretraining**.
-   In **arXiv**, [[Paper](https://arxiv.org/abs/2402.09834)].
+   In **KDD'2024**, [[Paper](https://arxiv.org/abs/2402.09834)].
 
    ![](https://img.shields.io/badge/Semantic%20Alignment-A52A2A)
 
@@ -273,7 +273,7 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 6. **Protein Multimer Structure Prediction via PPI-guided Prompt Learning**.
    In **ICLR'2024**, [[Paper](https://openreview.net/forum?id=OHpvivXrQr)].
 7. **DDIPrompt: Drug-Drug Interaction Event Prediction based on Graph Prompt Learning**.
-   In **arXiv**, [[Paper](https://arxiv.org/abs/2402.11472)].
+   In **CIKM'2024**, [[Paper](https://arxiv.org/abs/2402.11472)].
 
 
 ### Others
