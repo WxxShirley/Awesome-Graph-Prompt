@@ -175,7 +175,10 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
    In **arXiv**, [[Paper](https://arxiv.org/pdf/2311.14324.pdf )].
 
 6. **ZeroG: Investigating Cross-dataset Zero-shot Transferability in Graphs**.
-   In **KDD'2024**, [[Paper](https://arxiv.org/abs/2402.11235)].
+   In **KDD'2024**, [[Paper](https://arxiv.org/abs/2402.11235)] [[Code](https://github.com/NineAbyss/ZeroG)].
+
+7. **Pre-Training and Prompting for Few-Shot Node Classification on Text-Attributed Graphs**.
+   In **KDD'2024**, [[Paper](https://arxiv.org/abs/2407.15431)] [[Code](https://github.com/THUDM/P2TAG)].
 
 
 ### Large Language Models in Graph Data Processing
@@ -214,7 +217,7 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
    ![](https://img.shields.io/badge/Semantic%20Alignment-A52A2A)  ![](https://img.shields.io/badge/Structural%20Alignment-A52A2A)
 
 3. **All in One and One for All: A Simple yet Effective Method towards Cross-domain Graph Pretraining**.
-   In **KDD'2024**, [[Paper](https://arxiv.org/abs/2402.09834)].
+   In **KDD'2024**, [[Paper](https://arxiv.org/abs/2402.09834)] [[Code](https://github.com/cshhzhao/GCOPE)].
 
    ![](https://img.shields.io/badge/Semantic%20Alignment-A52A2A)
 
