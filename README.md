@@ -1,5 +1,5 @@
 <h1 align="center"> Awesome-Graph-Prompt</h2>
-<h5 align="center">A collection of AWESOME things about performing prompting on Graphs.</h5>
+<h5 align="center">A collection of AWESOME things about performing prompt learning on Graphs.</h5>
 
 <h5 align="center">
   
@@ -8,10 +8,10 @@
 </h5>
 
 
-Recently, the workflow of **"pre-train, fine-tune"** has been proved less effective and efficient when dealing with diverse downstream tasks on graph domain.
+Recently, the workflow of **"pre-train, fine-tune"** has been shown less effective and efficient when dealing with diverse downstream tasks on graph domain.
 Inspired by the prompt learning in natural language processing (NLP) domain, the **"pre-train, prompt"** workflow has emerged as a promising solution. 
 
-This repo aims to provide a curated list of research papers that explore the prompting on graphs. 
+This repo aims to provide a curated list of research papers that explore the prompt learning on graphs. 
 **It is based on our Survey Paper: [Graph Prompt Learning: A Comprehensive Survey and Beyond](https://arxiv.org/abs/2311.16534)**. 
 We will try to make this list updated frequently. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.🌹
 
@@ -237,6 +237,8 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
    In **CIKM'2023**, [[Paper](https://arxiv.org/pdf/2309.16424.pdf )] [[Code](https://github.com/jiayingwu19/Prompt-and-Align)]. `Fake News Detection`
 2. **Voucher Abuse Detection with Prompt-based Fine-tuning on Graph Neural Networks**.
    In **CIKM'2023**, [[Paper](https://arxiv.org/abs/2308.10028 )]. `Fraud Detection`
+3. **ProCom: A Few-shot Targeted Community Detection Algorithm**.
+   In **KDD'2024**, [[Paper](https://arxiv.org/abs/2408.07369)] [[Code](https://github.com/WxxShirley/KDD2024ProCom)]. `Community Detection`
 
 
 ### Recommender Systems
@@ -255,7 +257,7 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 1. **Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer**.
    In **WWW'2023**, [[Paper](https://arxiv.org/pdf/2303.03922.pdf )] [[Code](https://github.com/zjukg/KGTransformer )]. 
 2. **Graph Neural Prompting with Large Language Models**.
-   In **arXiv**, [[Paper](https://arxiv.org/pdf/2309.15427.pdf)].
+   In **AAAI'2024**, [[Paper](https://arxiv.org/pdf/2309.15427.pdf)].
 3. **Knowledge Graph Prompting for Multi-Document Question Answering**.
    In **arXiv**, [[Paper](https://arxiv.org/abs/2308.11730 )] [[Code](https://github.com/YuWVandy/KG-LLM-MDQA )].
 4. **Multi-domain Knowledge Graph Collaborative Pre-training and Prompt Tuning for Diverse Downstream Tasks**.
@@ -288,6 +290,9 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
    In **SIGIR'2024**, [[Paper](https://arxiv.org/abs/2403.19063)]. `Hypergraph Prompt`
 4. **Cross-Context Backdoor Attacks against Graph Prompt Learning**.
    In **KDD'2024**, [[Paper](https://arxiv.org/pdf/2405.17984)] [[Code](https://github.com/xtLyu/CrossBA)]. `Cross-Context Backdoor Attacks`
+5. **Urban Region Pre-training and Prompting: A Graph-based Approach**.
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2408.05920)]. `Urban Region Representation`
+   
 
 
 ## Other Resources
