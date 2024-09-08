@@ -133,7 +133,7 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 
 
 17. **MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs**.
-    In **WWW'2024**, [[Paper](https://arxiv.org/abs/2312.03731)].
+    In **WWW'2024**, [[Paper](https://arxiv.org/abs/2312.03731)] [[Code](https://github.com/Nashchou/MultiGPrompt)].
 
      ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node%2FGraph-yellow)
 
