@@ -221,6 +221,9 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 
    ![](https://img.shields.io/badge/Semantic%20Alignment-A52A2A)
 
+4. **Text-Free Multi-domain Graph Pre-training: Toward Graph Foundation Models**.
+   In **arXiv**, [[Paper](https://arxiv.org/abs/2405.13934)].
+
 
 ## Application Papers
 
