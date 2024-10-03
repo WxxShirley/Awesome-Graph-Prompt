@@ -398,6 +398,20 @@ If you find this repo helpful to you, please feel free to cite these works:
 }
 ```
 
+
+[Tutorial](https://dl.acm.org/doi/abs/10.1145/3637528.3671456)
+```latex
+@inproceedings{li2024graph,
+  title={Graph Intelligence with Large Language Models and Prompt Learning},
+  author={Li, Jia and Sun, Xiangguo and Li, Yuhan and Li, Zhixun and Cheng, Hong and Yu, Jeffrey Xu},
+  booktitle={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={6545--6554},
+  year={2024}
+}
+
+```
+
+
 [ProG Library](https://github.com/sheldonresearch/ProG)
 ```latex
 @inproceedings{sun2023all,
@@ -412,6 +426,21 @@ If you find this repo helpful to you, please feel free to cite these works:
   doi = {10.1145/3580305.3599256}
 }
 ```
+
+[Theoretical Ground](https://arxiv.org/abs/2410.01635)
+```latex
+@article{wang2024doesgraphpromptwork,
+      title={Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis}, 
+      author={Qunzhong Wang and Xiangguo Sun and Hong Cheng},
+      year={2024},
+      journal = {arXiv:2410.01635},
+      eprint={2410.01635},
+      archivePrefix={arXiv},
+      url={https://arxiv.org/abs/2410.01635}, 
+}
+```
+
+
 
 Other Representative Works:
 
@@ -429,6 +458,7 @@ Other Representative Works:
     doi = {10.1145/3580305.3599256}
   }
  ```
+ 
 
 🔥 **All in One and One for All** A Cross-domain Graph Pre-training Framework
   ```latex
@@ -472,4 +502,13 @@ Other Representative Works:
     journal = {arXiv:2402.11472}
   }
   ``` 
-  
+
+  🔥 **Graph Prompting Works on Urban Computing** 
+   ```latex
+  @article{jin2024urban,
+  title={Urban Region Pre-training and Prompting: A Graph-based Approach},
+  author={Jin, Jiahui and Song, Yifan and Kan, Dong and Zhu, Haojia and Sun, Xiangguo and Li, Zhicheng and Sun, Xigang and Zhang, Jinghui},
+  journal={arXiv preprint arXiv:2408.05920},
+  year={2024}
+}
+```
