@@ -54,16 +54,22 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 
 
 
-1. **GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks**.
+1. **Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis.**
+    In **arXiv**, [[Paper](https://arxiv.org/abs/2410.01635)].
+
+    ![](https://img.shields.io/badge/Theoretical%20Basis-black) ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens%20Graphs-red) ![](https://img.shields.io/badge/Downstream%3A%20Graph-yellow)
+
+   
+2. **GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks**.
    In **KDD'2022**, [[Paper](https://dl.acm.org/doi/10.1145/3534678.3539249 )]  [[Code](https://github.com/MingChen-Sun/GPPT)].
 
     ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red)  ![](https://img.shields.io/badge/Downstream%3A%20Node-yellow)
 
-2. **SGL-PT: A Strong Graph Learner with Graph Prompt Tuning**.
+3. **SGL-PT: A Strong Graph Learner with Graph Prompt Tuning**.
    In **arXiv**, [[Paper](https://arxiv.org/abs/2302.12449)].
    
    ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Node-yellow)
-   
+
 
 4. **GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks**.
    In **WWW'2023**, [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583386 )] [[Code](https://github.com/Starlien95/GraphPrompt )].
@@ -152,6 +158,8 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
     In **arXiv**, [[Paper](https://arxiv.org/pdf/2406.10498)].
 
     ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens-red) ![](https://img.shields.io/badge/Downstream%3A%20Graph-yellow)
+
+
 
 
 
