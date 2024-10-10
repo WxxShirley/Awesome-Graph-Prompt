@@ -435,16 +435,14 @@ If you find this repo helpful to you, please feel free to cite these works:
 }
 ```
 
-[Theoretical Ground](https://arxiv.org/abs/2410.01635)
+[Theoretical Support](https://arxiv.org/abs/2410.01635)
 ```latex
-@article{wang2024doesgraphpromptwork,
+@article{wang2024does,
       title={Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis}, 
       author={Qunzhong Wang and Xiangguo Sun and Hong Cheng},
       year={2024},
-      journal = {arXiv:2410.01635},
-      eprint={2410.01635},
-      archivePrefix={arXiv},
-      url={https://arxiv.org/abs/2410.01635}, 
+      journal = {arXiv preprint arXiv:2410.01635},
+      url={https://arxiv.org/abs/2410.01635}
 }
 ```
 
