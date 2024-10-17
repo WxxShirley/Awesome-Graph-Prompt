@@ -253,16 +253,20 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 
 
 ### Recommender Systems
-1. **Contrastive Graph Prompt-tuning for Cross-domain Recommendation**.
+
+1. **Adaptive Coordinators and Prompts on Heterogeneous Graphs for Cross-Domain Recommendations**.
+   In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2410.11719)]. `Cross-domain Recommendation`
+2. **Contrastive Graph Prompt-tuning for Cross-domain Recommendation**.
    In **TOIS'2023**, [[Paper](https://arxiv.org/pdf/2308.10685.pdf )]. `Cross-domain Recommendation`
-2. **An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations**.
+3. **An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations**.
    In **NeurIPS'2023**, [[Paper](https://openreview.net/pdf?id=XyAP8ScqLV)] [[Code](https://github.com/Haoran-Young/CPTPP )]. `General Recommendation`
-3. **Motif-Based Prompt Learning for Universal Cross-Domain Recommendation**.
+4. **Motif-Based Prompt Learning for Universal Cross-Domain Recommendation**.
    In **WSDM'2024**, [[Paper](https://arxiv.org/abs/2310.13303)]. `Cross-domain Recommendation`
-4. **GraphPro: Graph Pre-training and Prompt Learning for Recommendation**.
+5. **GraphPro: Graph Pre-training and Prompt Learning for Recommendation**.
    In **WWW'2024**, [[Paper](https://arxiv.org/abs/2311.16716)] [[Code](https://github.com/HKUDS/GraphPro)].  `General Recommendation`
-5. **GPT4Rec: Graph Prompt Tuning for Streaming Recommendation**.
+6. **GPT4Rec: Graph Prompt Tuning for Streaming Recommendation**.
    In **SIGIR'2024**, [[Paper](https://arxiv.org/pdf/2406.08229)]. `General Recommendation`
+   
 
 ### Knowledge Graph
 1. **Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer**.
@@ -507,7 +511,18 @@ Other Representative Works:
     archivePrefix={arXiv},
     journal = {arXiv:2402.11472}
   }
-  ``` 
+  ```
+
+  🔥 **Graph Prompting Works on Cross-domain Recommendation** 
+   ```latex
+   @article{zhang2024adaptive,
+      title={Adaptive Coordinators and Prompts on Heterogeneous Graphs for Cross-Domain Recommendations},
+      author={Hengyu Zhang and Chunxu Shen and Xiangguo Sun and Jie Tan and Yu Rong and Chengzhi Piao and Hong Cheng and Lingling Yi},
+      journal={arXiv preprint arXiv:2410.11719},
+      year={2024}
+  }
+```
+
 
   🔥 **Graph Prompting Works on Urban Computing** 
    ```latex
