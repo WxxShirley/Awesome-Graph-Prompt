@@ -266,7 +266,9 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
    In **WWW'2024**, [[Paper](https://arxiv.org/abs/2311.16716)] [[Code](https://github.com/HKUDS/GraphPro)].  `General Recommendation`
 6. **GPT4Rec: Graph Prompt Tuning for Streaming Recommendation**.
    In **SIGIR'2024**, [[Paper](https://arxiv.org/pdf/2406.08229)]. `General Recommendation`
-   
+7. **PT4Rec: A Universal Prompt-tuning Framework for Graph Contrastive Learning-based Recommendations**
+   In **Machine Learning Journal'2025**, [[Paper](https://api.semanticscholar.org/CorpusID:276198562)] [[Code](https://github.com/xiaowei-i/PT4Rec)]. `General Recommendation`
+
 
 ### Knowledge Graph
 1. **Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer**.
