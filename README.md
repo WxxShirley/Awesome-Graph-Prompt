@@ -309,6 +309,7 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
    In **KDD'2024**, [[Paper](https://arxiv.org/pdf/2405.17984)] [[Code](https://github.com/xtLyu/CrossBA)]. `Cross-Context Backdoor Attacks`
 5. **Urban Region Pre-training and Prompting: A Graph-based Approach**.
    In **arXiv**, [[Paper](https://arxiv.org/abs/2408.05920)]. `Urban Region Representation`
+6. **Boundary Prompting: Elastic Urban Region Representation via Graph-based Spatial Tokenization**. In **arXiv**, [[Paper](https://arxiv.org/abs/2503.07991)]. `Urban Region Representation`
    
 
 
@@ -318,6 +319,11 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 * **ProG: A Unified Library for Graph Prompting** [[Website](https://graphprompt.github.io/)] [[Code](https://github.com/sheldonresearch/ProG)]
   
   ProG (Prompt Graph) is a library built upon PyTorch to easily conduct single or multiple task prompting for a pre-trained Graph Neural Networks (GNNs).
+
+### Blogs
+* A Chinese Blog that provides a comprehensive introduction of **ALL** graph prompting works [[Zhihu](https://zhuanlan.zhihu.com/p/681628720)]
+
+* An English Blog post at ICLR 2025. **Rethinking Graph Prompts: Unraveling the Power of Data Manipulation in Graph Neural Networks**. [[ICLR 2025 (BlogPosts)](https://openreview.net/forum?id=fQtOTcZhXI)]
 
 
 ### Benchmarks
@@ -385,8 +391,6 @@ Datasets that are commonly used in GNN prompting papers.
 ### Online Talks
 * Official Presentation of **All in One** [Link](https://www.bilibili.com/video/BV1q94y1k7nF)
 
-### Blogs
-* A Chinese Blog that provides a comprehensive introduction of **ALL** graph prompting works [[Zhihu](https://zhuanlan.zhihu.com/p/681628720)]
 
 
 ## Contributing
@@ -425,6 +429,15 @@ If you find this repo helpful to you, please feel free to cite these works:
 
 ```
 
+[Blog](https://openreview.net/forum?id=fQtOTcZhXI)
+```latex
+@inproceedings{zi2025rethinking,
+  title={Rethinking Graph Prompts: Unraveling the Power of Data Manipulation in Graph Neural Networks},
+  author={Zi, Chenyi and Bowen, LIU and Sun, Xiangguo and Cheng, Hong and Li, Jia},
+  booktitle={ICLR 2025 (Blogpost Track)}
+}
+```
+
 
 [ProG Library](https://github.com/sheldonresearch/ProG)
 ```latex
@@ -450,6 +463,7 @@ If you find this repo helpful to you, please feel free to cite these works:
       journal = {arXiv preprint arXiv:2410.01635},
       url={https://arxiv.org/abs/2410.01635}
 }
+
 ```
 
 
@@ -533,5 +547,13 @@ Other Representative Works:
   author={Jin, Jiahui and Song, Yifan and Kan, Dong and Zhu, Haojia and Sun, Xiangguo and Li, Zhicheng and Sun, Xigang and Zhang, Jinghui},
   journal={arXiv preprint arXiv:2408.05920},
   year={2024}
+}
+
+
+@article{zhu2025boundary,
+  title={Boundary Prompting: Elastic Urban Region Representation via Graph-based Spatial Tokenization},
+  author={Zhu, Haojia and Jin, Jiahui and Kan, Dong and Shen, Rouxi and Wang, Ruize and Sun, Xiangguo and Zhang, Jinghui},
+  journal={arXiv preprint arXiv:2503.07991},
+  year={2025}
 }
 ```
