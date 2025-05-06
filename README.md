@@ -55,7 +55,7 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 
 
 1. **Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis.**
-    In **arXiv**, [[Paper](https://arxiv.org/abs/2410.01635)].
+    In **ICML 2025**, [[Paper](https://arxiv.org/abs/2410.01635)].
 
     ![](https://img.shields.io/badge/Theoretical%20Basis-black) ![](https://img.shields.io/badge/Encoder%3AGNN-green)  ![](https://img.shields.io/badge/Prompt%20as%20Tokens%20Graphs-red) ![](https://img.shields.io/badge/Downstream%3A%20Graph-yellow)
 
@@ -255,7 +255,7 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 ### Recommender Systems
 
 1. **Adaptive Coordinators and Prompts on Heterogeneous Graphs for Cross-Domain Recommendations**.
-   In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2410.11719)]. `Cross-domain Recommendation`
+   In **SIGIR 2025**, [[Paper](https://arxiv.org/abs/2410.11719)]. `Cross-domain Recommendation`
 2. **Contrastive Graph Prompt-tuning for Cross-domain Recommendation**.
    In **TOIS'2023**, [[Paper](https://arxiv.org/pdf/2308.10685.pdf )]. `Cross-domain Recommendation`
 3. **An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations**.
@@ -456,12 +456,12 @@ If you find this repo helpful to you, please feel free to cite these works:
 
 [Theoretical Support](https://arxiv.org/abs/2410.01635)
 ```latex
-@article{wang2024does,
-      title={Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis}, 
-      author={Qunzhong Wang and Xiangguo Sun and Hong Cheng},
-      year={2024},
-      journal = {arXiv preprint arXiv:2410.01635},
-      url={https://arxiv.org/abs/2410.01635}
+@inproceedings{wang2024does,
+  title={Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis},
+  author={Qunzhong Wang and Xiangguo Sun and Hong Cheng},
+  booktitle={ICML},
+  year={2025},
+  pages = {}
 }
 
 ```
@@ -534,8 +534,8 @@ Other Representative Works:
    @article{zhang2024adaptive,
       title={Adaptive Coordinators and Prompts on Heterogeneous Graphs for Cross-Domain Recommendations},
       author={Hengyu Zhang and Chunxu Shen and Xiangguo Sun and Jie Tan and Yu Rong and Chengzhi Piao and Hong Cheng and Lingling Yi},
-      journal={arXiv preprint arXiv:2410.11719},
-      year={2024}
+      journal={SIGIR},
+      year={2025}
   }
 ```
 
