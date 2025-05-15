@@ -308,7 +308,7 @@ Summary of existing representative works on graph prompt. $\mathcal{S}$: Subgrap
 4. **Cross-Context Backdoor Attacks against Graph Prompt Learning**.
    In **KDD'2024**, [[Paper](https://arxiv.org/pdf/2405.17984)] [[Code](https://github.com/xtLyu/CrossBA)]. `Cross-Context Backdoor Attacks`
 5. **Urban Region Pre-training and Prompting: A Graph-based Approach**.
-   In **arXiv**, [[Paper](https://arxiv.org/abs/2408.05920)]. `Urban Region Representation`
+   In **KDD'2025**, [[Paper](https://arxiv.org/abs/2408.05920)]. `Urban Region Representation`
 6. **Boundary Prompting: Elastic Urban Region Representation via Graph-based Spatial Tokenization**. In **arXiv**, [[Paper](https://arxiv.org/abs/2503.07991)]. `Urban Region Representation`
    
 
@@ -542,12 +542,12 @@ Other Representative Works:
 
   🔥 **Graph Prompting Works on Urban Computing** 
    ```latex
-  @article{jin2024urban,
-  title={Urban Region Pre-training and Prompting: A Graph-based Approach},
-  author={Jin, Jiahui and Song, Yifan and Kan, Dong and Zhu, Haojia and Sun, Xiangguo and Li, Zhicheng and Sun, Xigang and Zhang, Jinghui},
-  journal={arXiv preprint arXiv:2408.05920},
-  year={2024}
-}
+ @inproceedings{jin2024urban,
+    title={Urban Region Pre-training and Prompting: A Graph-based Approach},
+    author={Jin, Jiahui and Song, Yifan and Kan, Dong and Zhu, Haojia and Sun, Xiangguo and Li, Zhicheng and Sun, Xigang and Zhang, Jinghui},
+    booktitle={Proceedings of the 28th ACM SIGKDD international conference on knowledge discovery \& data mining (KDD'25)},
+    year={2025}
+  }
 
 
 @article{zhu2025boundary,
